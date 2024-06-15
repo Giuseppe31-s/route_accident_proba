@@ -1,0 +1,1447 @@
+﻿DATA;ORA_REGISTRAZIONE;LUOGO;CIVICO;INTERSEZIONE_STRADALE;TIPOLOGIA;NATURA_SINISTRO;VEICOLI;MASCHI;FEMMINE;PROGNOSI_MIN_30_GIORNI;PROGNOSI_MAG_30_GIORNI;PROGNOSI_RISERVATA;DECEDUTI
+2014-01-01;07:46:00;VIA CHIESA;2;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-01-01;12:15:00;VIA CONVERSI;17;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-01-01;13:19:00;VIA BINAGHI;sn;VIA BROTZU;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-01-02;07:57:00;PIAZZA DE GASPERI;parcheggio;;Incidente stradale senza feriti;Precedenza;2;1;1;0;0;0;0
+2014-01-02;10:12:00;PARCHEGGIO BANCA CIS;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;1;0;0;0;0;0;0
+2014-01-02;18:17:00;VIALE GUGLIELMO MARCONI;111;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-01-03;09:47:00;VIA QUIRRA;mercato civico;;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;1;0;1;0;0;0
+2014-01-03;11:55:00;VIALE POETTO;sn;VIA VERGINE DI LLUC;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-01-03;20:07:00;PIAZZA DEFFENU;sn;VIALE COLOMBO;Incidente stradale senza feriti;Cambio di corsia;2;1;1;0;0;0;0
+2014-01-04;17:45:00;VIALE GUGLIELMO MARCONI;sn;;Incidente stradale con feriti;Tamponamento;3;2;1;1;0;0;0
+2014-01-04;20:34:00;VIA MAMELI;59/A;;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;0;1;1;0;0;0
+2014-01-05;11:59:00;VIA SCORNIGIANI;sn;VIA CORNALIAS;Incidente stradale con feriti;Caduta dal veicolo x Buca;1;1;0;1;0;0;0
+2014-01-05;11:55:00;ROTATORIA CADELLO;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-01-05;17:48:00;CIRCON. 131 DIR.;sn;;Incidente stradale con feriti;Tamponamento;3;2;2;1;1;0;0
+2014-01-06;05:28:00;ASSE MEDIANO DI SCORRIMENTO;sn;VIA VALENZANI;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-01-06;12:17:00;VIA BACAREDDA;sn;VIA S.VETRANO;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-01-07;08:12:00;VIA XXVIII FEBBRAIO;sn;VIA GRANDI;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-01-07;11:52:00;ROTATORIA PERETTI;sn;VIA STAMIRA;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-01-07;14:59:00;VIA ITALIA;159;;Incidente stradale con feriti;Tamponamento;3;0;5;3;0;0;0
+2014-01-07;18:16:00;VIA IS MIRRIONIS;sn;VIA CADELLO;Incidente stradale senza feriti;Urto laterale;2;0;2;0;0;0;0
+2014-01-08;08:36:00;VIA CADELLO;9;;Incidente stradale con feriti;Tamponamento;2;2;1;1;0;0;0
+2014-01-08;11:00:00;VIALE S.BARTOLOMEO;sn;VIA BORGO S.ELIA;Incidente stradale con feriti;Precedenza;2;2;0;1;0;0;0
+2014-01-08;15:38:00;VIA DEL RISORGIMENTO;94;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-01-08;17:06:00;VIA TOTI;197;;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-01-08;17:05:00;VIALE DIAZ;174;;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-01-09;09:08:00;VIA TAMBURINO SARDO;sn;VIA TARANTINI;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-01-09;09:55:00;VIALE BUONCAMMINO;sn;;Incidente stradale senza feriti;Caduta dal veicolo x imperizia;2;2;0;0;0;0;0
+2014-01-09;12:22:00;PIAZZA CASTELLANI;sn;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-01-09;18:11:00;VIALE S.AVENDRACE;68;;Incidente stradale con feriti;Frontale / laterale;2;2;0;0;1;0;0
+2014-01-09;19:10:00;VIALE MONASTIR;sn;VIA GHERARDO DELLE NOTTI;Incidente stradale con feriti;Tamponamento;2;1;3;2;0;0;0
+2014-01-10;16:53:00;PIAZZA MATTEOTTI;sn;VIA ROMA (LUNGOMARE);Incidente stradale con feriti;Danneggiamenti x Buca sulla sede stradale;1;2;0;1;0;0;0
+2014-01-10;17:10:00;VIA DOLCETTA;sn;VIALE MONASTIR;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-01-11;08:07:00;CALATA DEI TRINITARI;sn;;Incidente stradale con feriti;Urto laterale;2;2;0;0;0;0;0
+2014-01-11;10:47:00;VIALE COLOMBO;sn;;Incidente stradale con feriti;Tamponamento;3;2;1;0;1;0;0
+2014-01-11;21:48:00;VIALE DIAZ;sn;VIA CATANIA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-01-12;03:35:00;VIA RUFFINI;sn;PIAZZA PITAGORA;Incidente stradale con feriti;Urto con veicolo in sosta;3;0;2;2;0;0;0
+2014-01-12;11:55:00;VIALE COLOMBO;sn;;Incidente stradale con feriti;Tamponamento;2;1;1;2;0;0;0
+2014-01-13;18:27:00;PIAZZA D`ARMI;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-01-13;20:20:00;VICO VIII S.GIOVANNI;5;;Incidente stradale senza feriti;Uscita x sbandamento;0;1;0;0;0;0;0
+2014-01-13;21:13:00;VIA DEI GIUDICATI;sn;VIA ROMAGNA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-01-14;00:33:00;VIALE EUROPA;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-01-14;08:45:00;VIA LIGURIA;11;;Incidente stradale senza feriti;Manovra di retromarcia;2;2;0;0;0;0;0
+2014-01-14;08:52:00;S.S. 195;km.2,400;;Incidente stradale con feriti;Uscita x sbandamento;1;0;1;1;0;0;0
+2014-01-15;09:21:00;PIAZZA SAN BENEDETTO;sn;;Incidente stradale senza feriti;Cambio di corsia;2;2;0;0;0;0;0
+2014-01-15;10:33:00;VIA MERCALLI;10;;Incidente stradale senza feriti;Svolta a sinistra irregolare;2;1;1;0;0;0;0
+2014-01-16;10:09:00;VIA GUTTUSO;sn;VIA CABRAS;Incidente stradale senza feriti;Precedenza;2;1;1;0;0;0;0
+2014-01-16;11:58:00;LARGO GENNARI;sn;VIA TUVERI;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-01-16;19:06:00;VIA S.AGOSTINO;sn;;Incidente stradale senza feriti;Cambio di corsia;2;0;2;0;0;0;0
+2014-01-17;11:28:00;VIA CADELLO;32;;Incidente stradale con feriti;Cambio di corsia;2;1;1;1;0;0;0
+2014-01-17;21:23:00;CORSO VITTORIO EMANUELE II;227;;Incidente stradale senza feriti;Apertura portiera;2;2;0;0;0;0;0
+2014-01-18;01:31:00;ROTATORIA CADELLO;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-01-18;08:46:00;VIA GIUD.SSA BENEDETTA;sn;VIA DEI GIUDICATI;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-01-18;10:09:00;PIAZZA ITALIA;sn;VIA DEL RISORGIMENTO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-01-19;07:49:00;VIA S.MARIA CHIARA;50;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-01-19;07:35:00;VIA PO;sn;;Incidente stradale con feriti;Inversione di marcia;2;1;1;1;0;0;0
+2014-01-19;14:31:00;VIA PERETTI;sn;;Incidente stradale senza feriti;Tamponamento;3;3;0;0;0;0;0
+2014-01-19;20:51:00;VIA COL D`ECHELE;sn;VIA IS MAGLIAS;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-01-20;02:03:00;VIA MANZONI;sn;VIA LEOPARDI;Incidente stradale con feriti;Frontale / laterale;4;2;1;2;0;0;0
+2014-01-20;08:38:00;VIA PISANO;sn;VIA AMPERE;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-01-20;09:17:00;VIA ROMA;65;;Incidente stradale con feriti;Caduta dal veicolo x imperizia;2;1;1;1;1;0;0
+2014-01-20;18:01:00;VIA CIUSA;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-01-20;18:04:00;VIALE DIAZ;sn;VIA SONNINO;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-01-21;09:50:00;VIA FENICOTTERI;5;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-02-06;20:22:00;VIA S.MARIA GORETTI;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;0;1;0;0;0;0
+2014-02-07;14:25:00;S.S. 131 DIR.;sn;ROTATORIA PERETTI;Incidente stradale con feriti;Tamponamento;3;3;0;0;1;0;0
+2014-02-07;16:56:00;LARGO CARLO FELICE;14;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;1;0;0;0;0
+2014-02-07;18:16:00;VIA PERGOLESI;sn;LARGO GENNARI;Incidente stradale con feriti;Urto con veicolo in sosta;5;2;0;1;0;0;0
+2014-02-07;20:38:00;VIA TOTI;sn;VIA SANNA;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-02-07;21:55:00;VIA ITALIA;54;;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-02-09;02:53:00;VIA STAMIRA;sn;VIA PERETTI;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-02-09;08:01:00;VIALE TRENTO;sn;VIA SAURO;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-02-09;18:14:00;VIA CIUSA;sn;VIA RIVA VILLASANTA;Incidente stradale con feriti;Urto anteriore;2;2;0;1;0;0;0
+2014-02-09;18:25:00;VIA ROMA;sn;PIAZZA MATTEOTTI;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-02-10;13:48:00;VIA MONTECASSINO;27;VIA SEGURANA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-02-10;14:02:00;VIA DEL FANGARIO;6;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-02-10;15:05:00;VIA IS MIRRIONIS;184;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;1;0;0;0;0
+2014-02-10;17:15:00;VIALE GUGLIELMO MARCONI;54;;Incidente stradale senza feriti;Tamponamento;3;2;1;0;0;0;0
+2014-02-11;11:42:00;VIALE COLOMBO;18;;Incidente stradale con feriti;Uscita x sbandamento;1;1;0;0;1;0;0
+2014-02-11;13:28:00;VIALE CIMITERO;29;;Incidente stradale con feriti;Tamponamento;3;2;1;3;0;0;0
+2014-02-11;14:46:00;VIA CONVERSI;11;;Danneggiamento;Urto con cassonetto;1;1;0;0;0;0;0
+2014-02-11;15:28:00;VIA CADELLO;sn;VIA CORNALIAS;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-02-11;20:30:00;VIA S.BENEDETTO;sn;VIA BELLINI;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-02-12;02:41:00;ASSE MEDIANO DI SCORRIMENTO;sn;VIA GUADAZZONIS;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-02-12;09:13:00;VIA ROMA (LUNGOMARE);sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;0;1;0;0;0;0
+2014-02-12;16:13:00;VIA CINQUINI;sn;VIA CORNALIAS;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-02-12;17:42:00;VIA GALVANI;56;;Danneggiamento;Urto con cassonetto;1;0;0;0;0;0;0
+2014-02-13;09:10:00;VIA PORTO BOTTE;sn;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-02-13;15:21:00;VIA MESSINA;sn;VIA MILANO;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-02-13;18:50:00;VIALE GUGLIELMO MARCONI;161;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-02-14;13:58:00;VIALE LA PLAIA;sn;PORTO MOLO S.AGOSTINO;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-02-14;14:13:00;ASSE MEDIANO DI SCORRIMENTO;sn;VIA DEGLI ANCARANI;Incidente stradale con feriti;Frontale / laterale;2;2;1;2;0;0;0
+2014-02-14;15:57:00;LUNGOMARE POETTO (BRETELLA OSPEDALE MARINO);sn;;Incidente stradale con feriti;Frontale / laterale;2;1;1;2;0;0;0
+2014-02-14;18:27:00;VIA GUADAZZONIS;sn;;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-02-15;00:55:00;VIA SASSARI;sn;PIAZZA DEL CARMINE;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;1;0;0;0;0
+2014-02-15;11:55:00;VIA IS MIRRIONIS;sn;PIAZZA D`ARMI;Incidente stradale con feriti;Investimento di pedone;1;0;2;0;1;0;0
+2014-02-15;17:16:00;VIA RIVA VILLASANTA;79;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-02-15;17:49:00;VIA PETRARCA;sn;VIA CAVALCANTI;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-02-15;18:05:00;VIA CADELLO;sn;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-02-17;08:31:00;ROTATORIA CADELLO;sn;VIA S.MARIA CHIARA;Incidente stradale con feriti;Tamponamento;3;0;3;1;0;0;0
+2014-02-17;10:13:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-02-17;13:48:00;ROTATORIA IS PONTIS PARIS;sn;;Incidente stradale con feriti;Tamponamento;6;4;4;4;1;0;0
+2014-02-17;17:01:00;VIA BERLINO;sn;VIA LIONE;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-02-17;17:21:00;VIA CADELLO;sn;VIA S.MARIA CHIARA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-02-17;17:44:00;VIALE COLOMBO;sn;VIA CABOTO;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-02-17;18:23:00;VIA MESSINA;37;;Incidente stradale senza feriti;Danneggiamento auto in sosta;2;0;0;0;0;0;0
+2014-02-17;19:04:00;PIAZZA SAN BENEDETTO;sn;VIA MANZONI;Incidente stradale senza feriti;Danneggiamento auto in sosta;2;1;0;0;0;0;0
+2014-02-17;20:02:00;VIA GHERARDO DELLE NOTTI;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-02-18;12:06:00;VIALE FERRARA;sn;;Danneggiamento;Ramo su auto;1;1;0;0;0;0;0
+2014-02-18;12:49:00;PIAZZA MADRE TERESA DI CALCUTTA;sn;;Incidente stradale senza feriti;Immissione nel flusso della circolazione;2;2;0;0;0;0;0
+2014-02-18;13:12:00;VIA SAURO;11;;Danneggiamento;Urto con cassonetto;1;0;0;0;0;0;0
+2014-02-18;16:45:00;VIA ANGIOY;sn;VIA CRISPI;Incidente stradale senza feriti;Urto con veicolo in sosta;4;1;0;0;0;0;0
+2014-02-19;09:42:00;VIA IS MIRRIONIS;152;;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-02-19;13:05:00;VIA HERMADA;sn;VIA MONTE GRAPPA;Incidente stradale con feriti;Frontale / laterale;2;1;1;0;1;0;0
+2014-02-19;14:22:00;VIA S.MARIA CHIARA;sn;VIA CALAMATTIA;Incidente stradale senza feriti;Uscita x sbandamento;2;1;0;0;0;0;0
+2014-02-19;14:09:00;VIA BESTA;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;5;0;0;0;0;0;0
+2014-02-19;21:29:00;VIA ROMA;sn;LARGO CARLO FELICE;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;0;1;0;0;0;0
+2014-02-20;11:45:00;VIA DEI DONORATICO;sn;VIA CAPULA;Incidente stradale senza feriti;Frontale / laterale;2;0;2;0;0;0;0
+2014-02-20;12:19:00;VIA CAVARO;19;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-02-20;14:12:00;VIA SONNINO;sn;VIA S.LUCIFERO;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-02-20;16:24:00;VIA CADELLO;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-02-20;19:24:00;VIA GHERARDO DELLE NOTTI;sn;VIA LACONI;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-02-21;08:58:00;VIA TUVERI;54;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-02-21;10:46:00;S.S. 195;sn;;Incidente stradale con feriti;Tamponamento;3;3;0;3;0;0;0
+2014-02-21;10:50:00;VIA PO;sn;VIALE ELMAS;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-02-21;11:30:00;VIA DANTE;sn;VIA DE GIOANNIS;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-02-22;12:48:00;VIA PESSAGNO;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-02-16;18:02:00;VIA TRAMONTANA;sn;;Incidente stradale con feriti;Caduta dal veicolo x imperizia;1;1;1;1;0;0;0
+2014-02-22;20:32:00;VIALE DIAZ;sn;PONTE VITTORIO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-02-23;18:55:00;VIA LUNGO SALINE;sn;LUNGOMARE POETTO (BRETELLA OSPEDALE MARINO);Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-02-23;21:36:00;ASSE MEDIANO DI SCORRIMENTO;km. 4,200;;Incidente stradale con feriti;Tamponamento;2;1;2;1;0;0;0
+2014-02-24;11:19:00;VIA SONNINO;182;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-02-25;12:08:00;VIA DELL`  ARTIGIANATO;sn;VIA DELL`AGRICOLTURA;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-02-26;14:39:00;VIA GALLINARA;22;;Incidente stradale con feriti;Urto con veicolo in sosta;4;1;0;1;0;0;0
+2014-02-27;12:31:00;VIA SONNINO;39;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-02-27;16:01:00;VIA IS MIRRIONIS;67;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-02-27;16:40:00;VIA ALGHERO;64;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;0;1;0;0
+2014-02-27;17:53:00;VIA SONNINO;218;VIA BACAREDDA;Incidente stradale senza feriti;Frontale / laterale;2;0;1;0;0;0;0
+2014-02-28;07:59:00;VIA DEI DONORATICO;sn;VIA CAPULA;Incidente stradale con feriti;Frontale / laterale;3;3;1;1;0;0;0
+2014-02-28;16:12:00;VIA BELLAVISTA;58;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-02-28;18:52:00;VIALE S.AVENDRACE;125;;Incidente stradale con feriti;Frontale / laterale;2;1;1;0;1;0;0
+2014-02-28;22:06:00;VIA TAMBURINO SARDO;44;;Incidente stradale con feriti;Precedenza;2;2;0;1;0;0;0
+2014-03-01;09:32:00;PIAZZA DEFFENU;12;;Danneggiamento;Cornicione su auto;1;0;0;0;0;0;0
+2014-03-01;12:11:00;VIA LAMARMORA;21;;Danneggiamento;Urto con cassonetto;1;0;0;0;0;0;0
+2014-03-01;14:28:00;VIA FLAVIO GIOIA;sn;VIA VOLTA;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-03-01;15:54:00;VIA PIERO DELLA FRANCESCA;sn;VIA BROTZU;Incidente stradale senza feriti;Uscita x sbandamento;1;0;0;0;0;0;0
+2014-03-01;22:17:00;VIA SONNINO;sn;VIA DELEDDA;Danneggiamento;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-03-02;00:51:00;VIALE TRENTO;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-03-02;02:26:00;VIA FAVONIO;sn;VIA GRECALE;Incidente stradale senza feriti;Urto con veicolo in sosta;5;1;0;0;0;0;0
+2014-03-03;09:03:00;VIA DOLIANOVA;sn;VIA AMPERE;Incidente stradale con feriti;Investimento di pedone;1;0;2;0;1;0;0
+2014-03-03;11:07:00;LARGO GENNARI;sn;;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-03-04;09:33:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale con feriti;Tamponamento;5;4;3;3;0;0;0
+2014-03-04;12:08:00;VIA TEMPIO;sn;VIA MACOMER;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-03-04;14:10:00;VIA TOTI;sn;VIA BIANCAMANO;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-03-05;08:31:00;ASSE MEDIANO DI SCORRIMENTO;km.8,200;;Incidente stradale con feriti;Uscita x sbandamento;1;1;2;2;0;0;0
+2014-03-05;08:47:00;ASSE MEDIANO DI SCORRIMENTO;km.7,800;;Incidente stradale con feriti;Tamponamento;4;3;1;1;0;0;0
+2014-03-05;10:23:00;PIAZZA S.BENEDETTO;sn;VIA SAN BENEDETTO;Incidente stradale con feriti;Frontale / laterale;2;1;1;0;1;0;0
+2014-03-05;10:57:00;PIAZZA COSTITUZIONE;sn;VIALE REG. MARGHERITA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-03-05;16:04:00;VIALE COLOMBO;sn;VIA CABOTO;Incidente stradale con feriti;Uscita x sbandamento;3;3;1;3;0;0;0
+2014-03-05;17:22:00;VIALE MONASTIR;sn;VIALE TICCA;Incidente stradale con feriti;Frontale / laterale;2;1;1;2;0;0;0
+2014-03-05;21:02:00;VIA PO;11;;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-03-06;10:27:00;VIA S.IGNAZIO DA LACONI;76;;Incidente stradale con feriti;Manovra di retromarcia;2;1;2;1;0;0;0
+2014-03-06;18:01:00;VIA S.MARIA CHIARA;sn;VIA MONTECASSINO;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-03-07;08:39:00;VIALE MONASTIR;sn;VIA DOLCETTA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-03-07;10:02:00;VIA PALESTRINA;sn;VIA ROSSINI;Incidente stradale con feriti;Frontale / laterale;2;2;0;0;1;0;0
+2014-03-07;10:34:00;VIA MONTEVECCHIO;sn;VIA BAUDI DI VESME;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;0;1;1;0;0;0
+2014-03-07;11:02:00;VIALE GUGLIELMO MARCONI;sn;;Incidente stradale senza feriti;Cambio di corsia;2;1;1;0;0;0;0
+2014-03-07;13:32:00;VIA CADELLO;9;;Incidente stradale con feriti;Tamponamento;2;1;2;2;0;0;0
+2014-03-07;13:51:00;VIA SAN BENEDETTO;sn;VIA PERGOLESI;Incidente stradale con feriti;Investimento di pedone;1;0;2;0;1;0;0
+2014-03-07;15:49:00;VIA CIUSA;sn;VIA ROMAGNA;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-03-07;19:25:00;VIA PARTEOLLA;sn;VIA S.MARIA CHIARA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-03-08;18:59:00;VIA BAUDI DI VESME;21;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-03-09;07:20:00;VIALE S.AVENDRACE;284;;Incidente stradale con feriti;Urto con veicolo in sosta;2;2;0;2;0;0;0
+2014-03-09;08:05:00;VIALE TRIESTE;176;;Incidente stradale con feriti;Apertura portiera;2;3;0;2;0;0;0
+2014-03-09;18:52:00;VIA SAN BENEDETTO;sn;VIA CAVARO;Incidente stradale con feriti;Frontale / laterale;2;2;3;3;0;0;0
+2014-03-09;21:33:00;VIALE S.AVENDRACE;fr Banco di Sardeg;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-03-10;09:35:00;VIA CAMPANIA;48;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-03-10;11:38:00;VIALE TRIESTE;sn;VICO TRIESTE;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-03-10;12:01:00;VIALE LA PLAIA;sn;VIA RIVA DI PONENTE;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-03-10;17:29:00;PIAZZA DETTORI;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;0;1;0;0
+2014-03-11;09:55:00;VIA CAVALLO GUIDO;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-03-11;18:55:00;VIA LIGURIA;48;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-03-12;17:25:00;VIALE POETTO;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-03-12;19:14:00;VIALE GUGLIELMO MARCONI;sn;VIA VIENNA;Incidente stradale con feriti;Frontale / laterale;2;2;0;0;1;0;0
+2014-03-12;20:45:00;VIA GALVANI;sn;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-03-12;23:39:00;VIALE GUGLIELMO MARCONI;sn;;Incidente stradale con feriti;Tamponamento;2;4;0;4;0;0;0
+2014-03-13;08:29:00;VIALE COLOMBO;sn;PIAZZA DEFFENU;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-03-13;16:23:00;VIA GORIZIA;sn;VIA FALZAREGO;Incidente stradale senza feriti;Uscita x sbandamento;1;0;1;0;0;0;0
+2014-03-13;18:18:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-03-13;20:07:00;VIA BOTTEGO;42;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-03-14;10:30:00;PIAZZA MATTEOTTI;sn;VIA SASSARI;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-03-14;12:52:00;VIA PERGOLESI;sn;VIA S.BENEDETTO;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-03-14;12:40:00;VIA DELL`  ARTIGIANATO;9;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-03-15;05:31:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;0;1;0;0;0;0
+2014-03-15;08:12:00;VIALE MONASTIR;sn;VIA PUGLIA;Incidente stradale con feriti;Uscita x sbandamento;1;1;0;1;0;0;0
+2014-03-15;08:49:00;VIA TRINCEA D. FRASCHE;58;;Danneggiamento;Cornicione su auto;3;0;0;0;0;0;0
+2014-03-16;20:04:00;VIA CAPULA;sn;VIA S.CARLO BORROMEO;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-03-17;08:11:00;VIA BACAREDDA;152;;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-03-17;10:33:00;VIALE BONARIA;sn;VIA STAZIONE VECCHIA;Incidente stradale con feriti;Frontale / laterale;1;3;0;1;1;0;0
+2014-03-17;14:36:00;VIA MILANO;sn;VIA MESSINA;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-03-17;19:05:00;VIALE REG. MARGHERITA;sn;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-03-17;21:06:00;VIA MINCIO;sn;;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-03-18;09:48:00;VIA TUVERI;sn;VIA AMAT;Incidente stradale con feriti;Urto laterale;2;1;1;1;1;0;0
+2014-03-18;11:00:00;VIALE TRIESTE;38;;Incidente stradale con feriti;Tamponamento;3;2;1;1;0;0;0
+2014-03-18;13:42:00;DIAZ;sn;VIA CATANIA;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-03-18;15:30:00;VIA CRESPELLANI;28;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-03-18;16:27:00;VIA GIUD. COSTANTINO;23;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-03-18;16:48:00;VIA PELLICO;8;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-03-18;16:31:00;VIALE MERELLO;37;;Incidente stradale senza feriti;Manovra di retromarcia;2;1;0;0;0;0;0
+2014-03-18;18:26:00;VIA PERETTI;sn;VIA BINAGHI;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-03-18;19:41:00;VIA S.CARLO BORROMEO;10;;Incidente stradale senza feriti;Urto con veicolo in sosta;3;0;1;0;0;0;0
+2014-03-19;09:11:00;ASSE MEDIANO DI SCORRIMENTO;km. 8,000;;Incidente stradale con feriti;Tamponamento;3;2;2;4;0;0;0
+2014-03-19;09:41:00;VIA ZEFFIRO;12;;Incidente stradale con feriti;Tamponamento;3;2;1;1;0;0;0
+2014-03-19;17:34:00;VIA CIUSA;sn;VIA RIVA VILLASANTA;Incidente stradale senza feriti;Urto anteriore;2;1;1;0;0;0;0
+2014-03-20;08:51:00;VIA LOGUDORO;21;;Incidente stradale con feriti;Urto laterale;2;1;1;1;0;0;0
+2014-03-20;12:34:00;ASSE MEDIANO DI SCORRIMENTO;sn;VIALE GUGLIELMO MARCONI;Incidente stradale con feriti;Tamponamento;3;2;1;1;0;0;0
+2014-03-20;12:38:00;VIALE GUGLIELMO MARCONI;sn;VIA SARPI;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-03-20;14:03:00;VIA GHERARDO DELLE NOTTI;sn;VIA LACONI;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-03-20;15:44:00;VIA CADELLO;sn;VIA JENNER;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-03-21;10:58:00;VIA PUGLIA;12;;Incidente stradale con feriti;Urto laterale;2;2;0;0;1;0;0
+2014-03-21;11:59:00;VIA MARONGIU ALDO;sn;;Incidente stradale con feriti;Manovra di retromarcia;1;2;0;1;0;0;0
+2014-03-21;14:56:00;VIA CORSICA;sn;;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-03-21;22:30:00;VIA TRENTINO;sn;VIA LIGURIA;Incidente stradale con feriti;Frontale / laterale;2;3;4;5;1;0;0
+2014-03-22;09:09:00;VIALE REG. MARGHERITA;sn;PIAZZA AMENDOLA;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-03-22;09:23:00;VIA ROCKEFELLER;37;;Danneggiamento;Danneggiamento auto in sosta;2;1;0;0;0;0;0
+2014-03-22;14:03:00;VIA DEL TIMO;sn;S.S. 131 DIR.;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-03-22;20:48:00;VIA ABRUZZI;16;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-03-23;00:58:00;VIA CALAMATTIA;sn;;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-03-23;07:30:00;VIA GUTTUSO;sn;VIA DEGLI ASTRI;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-03-24;10:26:00;VIA DANTE;133;;Danneggiamento;Urto con cassonetto;2;2;0;0;0;0;0
+2014-03-24;12:40:00;VIA IS MAGLIAS;sn;VIA MONTE SABOTINO;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-03-24;14:40:00;VIA S.PAOLO;sn;;Incidente stradale con feriti;Uscita x sbandamento;1;0;1;1;0;0;0
+2014-03-24;17:04:00;VIA HERMADA;24;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-03-25;06:28:00;VIA MACOMER;sn;VIA OZIERI;Incidente stradale senza feriti;Tamponamento;3;0;0;0;0;0;0
+2014-03-25;11:08:00;VIA MANZONI;sn;VIA LEOPARDI;Incidente stradale con feriti;Frontale / laterale;2;3;0;2;0;0;0
+2014-03-25;13:01:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale senza feriti;Tamponamento;3;3;0;0;0;0;0
+2014-03-25;13:06:00;VIA IS MIRRIONIS;13;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-03-25;14:38:00;VIALE REG. ELENA;10;;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-03-25;17:51:00;VIA DANTE;133;;Danneggiamento;Urto con cassonetto;1;0;1;0;0;0;0
+2014-03-25;17:52:00;VIA CORRIDONI;sn;VIA DEI GRIMALDI;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-03-25;20:16:00;LARGO CARLO FELICE;13/b;;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-03-26;05:12:00;VIA IS MIRRIONIS;sn;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-03-26;16:15:00;VIA CIUSA;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-03-26;20:20:00;VIALE DIAZ;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-03-27;09:21:00;ASSE MEDIANO DI SCORRIMENTO;sn;VIA STAMIRA;Incidente stradale con feriti;Tamponamento;4;4;1;2;0;0;0
+2014-03-27;09:35:00;VIA RIO PALMAS;sn;VIA POSADA;Incidente stradale senza feriti;Frontale / laterale;2;0;2;0;0;0;0
+2014-03-27;15:27:00;VIA DELL`AGRICOLTURA;sn;VIA DELL`  ARTIGIANATO;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-03-27;22:42:00;VIA SCANO;sn;VIA TUVERI;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-03-28;08:36:00;VIA FILIA;11;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-01-21;11:42:00;VIA FRATELLI BANDIERA;sn;VIA FAMAGOSTA;Incidente stradale senza feriti;Precedenza;2;1;1;0;0;0;0
+2014-01-21;12:57:00;VIA S.LUCIFERO;109;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-01-22;10:56:00;VIA SEGNI;s;VIA S.MARIA GORETTI;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-01-22;11:15:00;PONTE SCAFFA;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;0;1;0;0;0;0;0
+2014-01-22;18:01:00;VIALE MONASTIR;km.5,000;;Incidente stradale con feriti;Frontale / laterale;3;2;1;2;0;0;0
+2014-01-23;09:02:00;VIA MONTECASSINO;sn;CIRCON. 131 DIR.;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-01-23;20:14:00;VIA TIMAVO;sn;VIA REDIPUGLIA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-01-23;20:42:00;VIA ROMA;sn;;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-01-23;22:46:00;VIA IS CORRIAS;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-01-24;12:26:00;VIALE DIAZ;132;;Incidente stradale con feriti;Tamponamento;2;3;0;2;0;0;0
+2014-01-24;15:30:00;VIA TRINCEA D. FRASCHE;sn;VIA IS MAGLIAS;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-01-25;02:20:00;VIALE TRIESTE;fr banca di SS;;Incidente stradale con feriti;Tamponamento;3;2;1;2;0;0;0
+2014-01-25;06:29:00;LARGO CARLO FELICE;28;;Incidente stradale con feriti;Urto con veicolo in sosta;4;2;0;1;1;0;0
+2014-01-25;08:27:00;VIA DEL RISORGIMENTO;1;;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;1;0;1;0;0;0
+2014-01-25;09:44:00;VIA ROMA (LUNGOMARE);sn;;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-01-25;17:22:00;VIA MARONGIU ALDO;sn;VIA CORNALIAS;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-01-25;19:20:00;VIA ROMA (LUNGOMARE);sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;2;1;1;0;0;0;0
+2014-01-26;07:41:00;VIALE TRIESTE;159;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-01-26;13:15:00;VIA DONIZETTI;32;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;0;0;0;0;0;0
+2014-01-26;17:08:00;ASSE MEDIANO DI SCORRIMENTO;sn;PONTE VITTORIO;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-01-26;17:41:00;VIALE REG. MARGHERITA;sn;PIAZZA COSTITUZIONE;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-01-26;19:10:00;VIA SAN BENEDETTO;sn;PIAZZA SAN BENEDETTO;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-01-26;17:32:00;VIA FLEMING;26;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-01-27;12:24:00;VIA S.MARIA CHIARA;sn;VIA EROI D`ITALIA;Incidente stradale con feriti;Urto laterale;2;1;2;1;0;0;0
+2014-01-27;14:06:00;VIA SCANO;52;;Incidente stradale con feriti;Investimento di pedone;1;2;0;0;1;0;0
+2014-01-27;14:05:00;VIA PINTUS;pressi equitalia;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-01-27;18:14:00;VIA STAZIONE VECCHIA;sn;VIALE BONARIA;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-01-28;20:30:00;VIA TASSO;sn;PIAZZA MICHELANGELO;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-01-29;08:30:00;VIALE LA PLAIA;19;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-01-29;17:09:00;VIA EMILIA;5;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;1;0;0;0;0
+2014-01-29;17:14:00;VIA VALENZANI;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-01-29;20:18:00;VIA DELEDDA;74;PIAZZA REPUBBLICA;Incidente stradale con feriti;Tamponamento;3;1;2;1;0;0;0
+2014-01-30;09:32:00;VIA S.ROCCO;sn;VIA BACAREDDA;Incidente stradale con feriti;Tamponamento;2;2;1;1;0;0;0
+2014-01-30;14:21:00;VIA TIMAVO;sn;;Incidente stradale senza feriti;Manovra di retromarcia;2;1;1;0;0;0;0
+2014-01-30;18:25:00;VIALE COLOMBO;sn;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-01-30;18:53:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale con feriti;Tamponamento;4;3;1;1;0;0;0
+2014-01-30;22:33:00;VIA ISCHIA;sn;VIA VILLINI;Incidente stradale con feriti;Frontale / laterale;2;2;2;3;0;0;0
+2014-01-31;11:44:00;PIAZZA S.MICHELE;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-01-31;17:19:00;VIA ORIANI;7;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-02-01;08:17:00;VIALE S.AVENDRACE;sn;VIALE TRENTO;Incidente stradale con feriti;Frontale / laterale;3;3;0;1;0;0;0
+2014-02-01;08:23:00;VIALE GUGLIELMO MARCONI;sn;VIA NEWTON;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-02-01;08:41:00;VIA FLAVIO GIOIA;sn;;Incidente stradale senza feriti;Inversione di marcia;2;2;0;0;0;0;0
+2014-02-01;19:17:00;VIA PIERO DELLA FRANCESCA;sn;;Incidente stradale senza feriti;Urto anteriore;2;2;0;0;0;0;0
+2014-02-01;21:17:00;VIALE S.VINCENZO;sn;;Incidente stradale con feriti;Cambio di corsia;3;4;1;3;0;0;0
+2014-02-02;01:19:00;VIALE S.AVENDRACE;291;;Incidente stradale con feriti;Immissione nel flusso della circolazione;2;1;1;1;0;0;0
+2014-02-02;08:04:00;VIA S.MARIA CHIARA;sn;VIA BALILLA;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-02-02;10:56:00;VIA MESSINA;sn;VIALE DIAZ;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-02-02;13:44:00;VIA MONTE GRAPPA;4;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-02-03;07:48:00;ASSE MEDIANO DI SCORRIMENTO;sn;VIA STAMIRA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-02-03;08:34:00;S.S. EX 131;sn;VIA STAMIRA;Incidente stradale con feriti;Tamponamento;4;2;3;2;1;0;0
+2014-02-03;09:08:00;VIA S.BENEDETTO;100;;Incidente stradale senza feriti;Urto con veicolo in sosta;4;1;0;0;0;0;0
+2014-02-03;18:36:00;VIA DEI DONORATICO;sn;VIA CAPULA;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-02-04;09:11:00;VIA ISCHIA;sn;;Incidente stradale senza feriti;Manovra di retromarcia;2;2;0;0;0;0;0
+2014-02-04;12:47:00;VIA GIARDINI;sn;VIA TRISTANI;Incidente stradale senza feriti;Frontale / laterale;2;0;2;0;0;0;0
+2014-02-04;21:40:00;VIA GRANDI;sn;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-02-05;11:47:00;VIA REDIPUGLIA;sn;VIA TRINCEA D. FRASCHE;Incidente stradale con feriti;Precedenza;2;2;0;1;0;0;0
+2014-02-05;18:50:00;VIA PERETTI;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-02-05;21:40:00;VIA DEL TIMO;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-02-06;09:05:00;VIA CORSICA;sn;VIA CURIE;Incidente stradale senza feriti;Urto con veicolo in sosta;3;0;1;0;0;0;0
+2014-02-06;13:58:00;VIA STOCCOLMA;sn;VIA BUDAPEST;Danneggiamento;Danneggiamento auto in sosta;1;1;0;0;0;0;0
+2014-02-06;14:13:00;VIA ALAGON;34;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-06-15;14:16:00;ROTATORIA CADELLO;sn;VIA IS MIRRIONIS;Incidente stradale con feriti;Urto laterale;3;1;2;1;0;0;0
+2014-06-15;17:17:00;VIA MONTE SANTO;sn;VIA TRINCEA D. RAZZI;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-06-15;19:33:00;S.S. 195;sn;;Danneggiamento;Caduta dal veicolo x Gasolio sul manto stradale;1;1;0;0;0;0;0
+2014-06-16;08:27:00;VIA VALENZANI;21;;Incidente stradale con feriti;Caduta dal veicolo x Gasolio sul manto stradale;1;1;0;1;0;0;0
+2014-06-16;09:12:00;S.S. 195;KM.5,600;;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-06-16;16:25:00;VIALE LA PLAIA;sn;;Incidente stradale con feriti;Uscita x sbandamento;1;1;2;2;0;0;0
+2014-06-16;17:16:00;VIA CORONA;sn;VIA D`ACQUISTO;Incidente stradale senza feriti;Apertura portiera;2;1;1;0;0;0;0
+2014-06-16;17:24:00;VIA PUGLIA;sn;;Incidente stradale senza feriti;Frontale / laterale;2;1;0;0;0;0;0
+2014-06-16;18:03:00;VIA CADELLO;sn;;Incidente stradale senza feriti;Tamponamento;3;2;1;0;0;0;0
+2014-06-16;18:50:00;VIA STAMIRA;sn;;Incidente stradale con feriti;Tamponamento;2;1;3;3;0;0;0
+2014-06-16;18:52:00;VIA TOLMINO;25;;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;1;0;0;0;0;0
+2014-06-16;19:39:00;PO;61;;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-06-17;08:33:00;VIA XX SETTEMBRE;sn;VIA GALLURA;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-06-17;09:04:00;VIALE POETTO;4;;Incidente stradale senza feriti;;1;0;0;0;0;0;0
+2014-06-17;09:39:00;VIA LUNGO SALINE;sn;;Incidente stradale con feriti;Tamponamento;3;2;2;2;0;0;0
+2014-06-17;10:38:00;VIA ROMA;25;;Incidente stradale senza feriti;Urto laterale;2;0;2;0;0;0;0
+2014-06-17;18:18:00;VIA DEGLI ASTRI;184;VIA DELLE FELCI;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-06-17;18:21:00;VIA PO;sn;VIA ADIGE;Incidente stradale senza feriti;Tamponamento;3;2;1;0;0;0;0
+2014-06-17;18:29:00;PORT. CRISTINA;sn;VIA BADAS UBALDO;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-06-18;07:22:00;VIALE DIAZ;118;;Danneggiamento;Ramo su auto;1;0;0;0;0;0;0
+2014-06-18;09:16:00;ASSE MEDIANO DI SCORRIMENTO;KM.5,000;;Danneggiamento;Urto anteriore;2;0;2;0;0;0;0
+2014-06-18;11:36:00;VIALE REG. MARGHERITA;5;;Danneggiamento;Ramo su auto;1;0;0;0;0;0;0
+2014-06-18;15:32:00;VIA DELLA PINETA;150;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-06-18;16:24:00;VIA IS MIRRIONIS;187;;Incidente stradale senza feriti;Apertura portiera;2;2;0;0;0;0;0
+2014-06-18;18:26:00;VIA IS MIRRIONIS;150;;Danneggiamento;Cornicione su auto;1;0;0;0;0;0;0
+2014-06-19;18:47:00;VIA CORNALIAS;sn;VIA CAMPO PISANO;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-06-20;09:08:00;LUNGOMARE POETTO (BRETELLA OSPEDALE MARINO);sn;VIA DELL`IDROVORA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-06-20;15:08:00;ROTATORIA STAMIRA/PERETTI;sn;;Incidente stradale senza feriti;Tamponamento;1;0;0;0;0;0;0
+2014-06-20;15:11:00;ROTATORIA STAMIRA/PERETTI;sn;;Incidente stradale con feriti;Tamponamento;2;0;3;1;0;0;0
+2014-06-20;21:32:00;VIA QUIRRA;sn;VIA BRIANZA;Incidente stradale senza feriti;Tamponamento;2;2;1;1;1;0;0
+2014-06-21;14:52:00;VIA VERDI;sn;VIA ROSSINI;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-06-21;20:35:00;VIA TRAMONTANA;sn;VIALE POETTO;Incidente stradale con feriti;Semaforo rosso;5;4;4;3;1;2;0
+2014-06-22;15:35:00;VIA DELEDDA;< x >;VIA SONNINO;Incidente stradale con feriti;Frontale / laterale;2;3;0;1;0;0;0
+2014-06-22;19:08:00;VIA SCANO;sn;VIA CUGIA;Incidente stradale con feriti;Urto laterale;2;2;1;2;0;0;0
+2014-06-23;09:25:00;VIA IS MIRRIONIS;sn;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-06-23;10:04:00;VIA TUVERI;39;;Incidente stradale senza feriti;Tamponamento;4;2;0;0;0;0;0
+2014-06-23;14:10:00;ASSE MEDIANO DI SCORRIMENTO;KM. 7,100;;Incidente stradale con feriti;Tamponamento;2;1;2;2;1;0;0
+2014-06-23;19:10:00;VIA BALILLA;sn;VIA SU PLANU;Incidente stradale con feriti;Tamponamento;3;2;2;2;0;0;0
+2014-06-24;10:32:00;VIA BACAREDDA;SN;VIA S.VETRANO;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-06-24;10:39:00;VIA CORNALIAS;sn;VIA DEL SEMINARIO;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-06-24;12:29:00;VIA CIOCIARIA;sn;VIA NEBIDA;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-06-24;13:37:00;0 S.S. 195 RAC ( EX CASIC);sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-06-24;22:24:00;VIALE LA PLAIA;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-06-25;09:48:00;VIALE S.AVENDRACE;183;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-06-25;14:05:00;VIA SONNINO;42;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-06-25;14:51:00;VIA ROMA;163;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-06-25;16:18:00;VIA DANTE;sn;VIA MILLELIRE;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-06-25;19:38:00;PARCO DELLA MUSICA;sn;;Incidente stradale per caduta di pedone;Caduta dal veicolo x imperizia;1;0;1;0;0;0;0
+2014-06-26;08:26:00;VIA DEI GRILLI;sn;VIA RIVA VILLASANTA;Incidente stradale con feriti;Frontale / laterale;2;0;2;1;0;0;0
+2014-06-26;09:29:00;VIA VALENZANI;21;;Incidente stradale con feriti;Urto laterale;2;1;1;0;1;0;0
+2014-06-26;11:49:00;VIA BINAGHI;sn;VIA BROTZU;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-06-26;14:33:00;PIAZZA MATTEOTTI;sn;VIA S.AGOSTINO;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-06-27;11:08:00;VIA RIVA VILLASANTA;228;;Incidente stradale con feriti;Tamponamento;3;2;1;2;0;0;0
+2014-06-27;11:54:00;VIA S.BERNADETTE;sn;VIA DELLA ABBONDANZA;Incidente stradale senza feriti;Frontale / laterale;2;0;2;0;0;0;0
+2014-06-27;14:25:00;PIAZZA GARIBALDI;3;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-06-27;17:41:00;VIA S.LUCIFERO;sn;VIA DANTE;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-06-27;18:47:00;VIA TAMBURINO SARDO;44;;Incidente stradale senza feriti;Frontale / laterale;2;0;2;0;0;0;0
+2014-06-27;19:42:00;VIA SCANO;sn;VIA LEO PIETRO;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-06-27;21:59:00;VIA VESALIO;sn;;Incidente stradale con feriti;Frontale / laterale;2;0;2;2;0;0;0
+2014-06-28;13:45:00;VIALE S.BARTOLOMEO;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-06-28;16:01:00;VIA S.GILLA;sn;;Incidente stradale senza feriti;Uscita x sbandamento;2;2;0;0;0;0;0
+2014-06-30;11:30:00;VIALE DIAZ;178;;Incidente stradale con feriti;Tamponamento;2;0;2;1;0;0;0
+2014-06-30;11:38:00;VIALE GUGLIELMO MARCONI;sn;VIA VENTURI;Incidente stradale senza feriti;;1;0;0;0;0;0;0
+2014-06-30;12:06:00;VIALE GUGLIELMO MARCONI;sn;VIA VENTURI;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-06-30;12:56:00;VIA ZAGABRIA;39;;Danneggiamento;Danneggiamento auto in sosta;2;0;0;0;0;0;0
+2014-06-30;16:57:00;PIAZZA ITALIA;11;;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-06-30;17:56:00;VIALE GUGLIELMO MARCONI;171;;Incidente stradale con feriti;Tamponamento;3;1;2;1;0;0;0
+2014-06-30;18:06:00;VIA BRESCIANI;12;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-06-30;18:09:00;VIA PACINOTTI;sn;;Danneggiamento;Ramo su auto;2;0;0;0;0;0;0
+2014-06-30;19:02:00;VIALE GUGLIELMO MARCONI;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-06-30;21:03:00;PIAZZA PITAGORA;2;;Danneggiamento;Cornicione su auto;1;0;0;0;0;0;0
+2014-07-01;09:31:00;VIA DE CHIRICO;sn;VIA CABRAS;Incidente stradale con feriti;Frontale / laterale;2;0;2;1;0;0;0
+2014-07-01;12:29:00;S.S. 131 DIR.;sn;;Incidente stradale con feriti;Tamponamento;2;1;2;2;0;0;0
+2014-07-01;12:23:00;PIAZZA DEL CARMINE;sn;VIA CRISPI;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-07-01;14:57:00;VIALE MONASTIR;99;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-07-02;09:03:00;VIA PRINCIPE DI NAPOLI;sn;VIA ARGIOLAS;Incidente stradale senza feriti;Urto laterale;2;0;2;0;0;0;0
+2014-07-02;11:23:00;0 S.S. 195 RAC ( EX CASIC);sn;VIA BRENTA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-07-02;13:56:00;VIA S.MARIA CHIARA;sn;VIA DEI TIGLI;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-07-02;15:53:00;VIA S.BENEDETTO;84;;Incidente stradale con feriti;Tamponamento;2;3;0;2;0;0;0
+2014-07-02;17:22:00;VIA S`ARRULLONI;12;;Incidente stradale con feriti;Investimento di pedone;1;0;2;0;1;0;0
+2014-07-02;19:42:00;PIAZZA REPUBBLICA;sn;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-07-02;20:29:00;PIAZZA DEFFENU;sn;VIA CAMPIDANO;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-07-03;03:58:00;VIALE FERRARA;sn;;Incidente stradale con feriti;Uscita x sbandamento;1;2;0;1;0;0;0
+2014-07-03;06:13:00;VIA VESALIO;sn;VIA DEI CARBONARI;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-07-03;08:15:00;PIAZZA YENNE;sn;;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-07-03;10:59:00;VIALE TRENTO;34;;Incidente stradale con feriti;Tamponamento;3;2;1;1;0;0;0
+2014-07-03;11:13:00;VIA DANDOLO;sn;VIA CORRIDONI;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;1;0;0;0
+2014-07-03;11:56:00;VIA ROMA (LUNGOMARE);sn;LARGO CARLO FELICE;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-07-03;16:59:00;VIALE MONASTIR;sn;VIA PUGLIA;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-07-03;21:22:00;VIA DANTE;110;;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-07-04;08:28:00;VIALE COLOMBO;27;;Incidente stradale con feriti;Apertura portiera;2;1;1;1;0;0;0
+2014-07-04;14:11:00;VIALE POETTO;sn;PONTE VITTORIO;Incidente stradale con feriti;Uscita x sbandamento;0;1;0;0;1;0;0
+2014-07-04;15:51:00;VIA ROMA (CORS. CENTRALE);sn;;Danneggiamento;Ramo su auto;1;0;0;0;0;0;0
+2014-07-04;13:41:00;PIAZZA S.MICHELE;sn;VIA BOSCO CAPPUCCIO;Incidente stradale con feriti;Frontale / laterale;4;1;2;1;0;0;0
+2014-07-04;16:35:00;VIA MAMELI;76;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-07-05;06:43:00;VIA S`ARRULLONI;sn;VIALE POETTO;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-07-05;09:05:00;VIA JENNER;sn;VIA KOCH;Incidente stradale con feriti;Frontale / laterale;2;2;0;0;1;0;0
+2014-07-05;09:47:00;VIA DOBERDO;85;;Incidente stradale senza feriti;Urto con veicolo in sosta;3;1;0;0;0;0;0
+2014-07-05;19:10:00;VIA PERTUSOLA;10;;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-07-06;17:42:00;LUNGOMARE POETTO;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-07-07;08:10:00;VIA PRINCIPE DI PIEMONTE;sn;VIA CONTE ROSSO;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-07-07;12:05:00;VIA AMPERE;sn;VIA DOLIANOVA;Incidente stradale con feriti;Urto laterale;2;1;1;0;0;0;0
+2014-07-07;16:05:00;S.S. 195;sn;LOC. SA ILLETTA;Incidente stradale con feriti;Uscita x sbandamento;1;1;0;1;0;0;0
+2014-07-07;18:41:00;STRADA MARCONI BIS (ARGINALE);sn;;Incidente stradale senza feriti;Tamponamento;4;3;1;0;0;0;0
+2014-07-08;08:59:00;VIALE S.AVENDRACE;fr chiesa;;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-07-08;12:38:00;VIALE TRIESTE;174;;Danneggiamento;Ramo su auto;1;0;0;0;0;0;0
+2014-07-08;14:35:00;VIALE MONASTIR;106;;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-07-08;19:12:00;ROTATORIA IS PONTIS PARIS;sn;;Incidente stradale con feriti;Tamponamento;2;0;2;1;0;0;0
+2014-07-08;19:57:00;PIAZZA MATTEOTTI;sn;;Incidente stradale con feriti;Urto laterale;2;0;2;1;0;0;0
+2014-07-09;06:45:00;VIALE TRIESTE;110;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-07-09;09:24:00;LUNGOMARE POETTO;sn;VIA VULCANO;Incidente stradale con feriti;Urto laterale;2;1;1;0;1;0;0
+2014-07-09;10:06:00;VIALE S.ELIA;sn;VIALE S.BARTOLOMEO;Incidente stradale con feriti;Frontale / laterale;2;1;4;4;0;0;0
+2014-07-10;10:30:00;VIA BESTA;5;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-07-10;15:41:00;VIA GARIGLIANO;sn;;Incidente stradale senza feriti;Frontale / laterale;4;2;0;0;0;0;0
+2014-07-10;17:55:00;VIA IS MIRRIONIS;92;;Incidente stradale con feriti;Investimento di pedone;0;1;0;0;0;0;0
+2014-07-10;19:19:00;VIA CUGIA;sn;VIA SANNA RANDACCIO;Incidente stradale con feriti;Frontale / laterale;2;3;0;2;0;0;0
+2014-07-10;20:50:00;VIALE REG. ELENA;sn;;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-07-11;09:11:00;PIAZZA DEFFENU;sn;VIALE COLOMBO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-07-11;16:04:00;VIA DEL FANGARIO;sn;VIALE ELMAS;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-07-11;16:09:00;VIA FALZAREGO;sn;;Danneggiamento;Cornicione su auto;2;1;0;1;0;0;0
+2014-07-11;17:44:00;VIALE GUGLIELMO MARCONI;183;;Incidente stradale con feriti;Urto anteriore;2;2;2;2;1;1;0
+2014-07-11;18:06:00;VIA SONNINO;52;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-07-11;19:45:00;VIA CAPRAIA;12;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;1;0;0;0;0;0
+2014-07-12;00:25:00;VIA PUCCINI;sn;VIA CIMAROSA;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-07-12;03:48:00;VIA JENNER;sn;VIA S.MARIA CHIARA;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-07-12;06:35:00;ROTATORIA IS PONTIS PARIS;sn;;Incidente stradale con feriti;Urto anteriore;2;2;0;1;0;0;0
+2014-07-12;09:13:00;VIA DE CANDIA;sn;;Danneggiamento;Caduta dal veicolo x Gasolio sul manto stradale;1;1;0;0;0;0;0
+2014-07-12;11:23:00;PIAZZA MATTEOTTI;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-07-12;16:22:00;VIALE DIAZ;sn;VIA STAZIONE VECCHIA;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-07-12;21:17:00;VIA DELEDDA;16;;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;0;1;0;0;0;0
+2014-07-13;00:08:00;VIA DEL COMMERCIO;4;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;0;1;0;0;0;0;0
+2014-07-13;08:44:00;PIAZZA GIOVANNI XXIII;sn;VIA XXVIII FEBBRAIO;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-06-29;12:33:00;VIA AFRICO;7;;Danneggiamento;;0;1;0;0;0;0;0
+2014-07-14;11:42:00;VIA CARBONI BOI;5;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-07-14;14:53:00;VIA SEGNI;72;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-07-14;16:57:00;VIA GARIBALDI;sn;VIA FARINA;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-07-14;19:40:00;VIA LEGNANO;sn;VIA FRATELLI BANDIERA;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-07-15;02:07:00;VIA S.TERESA DI GALLURA;sn;VIA G. SARAGAT;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;1;0;0;0;0
+2014-07-15;06:56:00;0 S.S. 195 RAC ( EX CASIC);sn;;Incidente stradale con feriti;Uscita x sbandamento;1;1;0;1;0;0;0
+2014-07-15;10:00:00;VIALE COLOMBO;sn;VIA CABOTO;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-07-15;11:23:00;VIA ROMA (CORS. CENTRALE);sn;;Incidente stradale per caduta di pedone;Caduta dal veicolo x Buca;0;1;0;0;0;0;0
+2014-07-16;06:25:00;VIA GUTTUSO;32;;Incidente stradale con feriti;Urto con veicolo in sosta;3;1;0;1;0;0;0
+2014-07-16;08:00:00;VIA IS MIRRIONIS;sn;VIA TUVUMANNU;Incidente stradale senza feriti;Frontale / laterale;4;1;1;0;0;0;0
+2014-07-16;08:51:00;VIALE REG. MARGHERITA;9;;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-07-16;12:02:00;VIA CRISPI;sn;VIA ANGIOY;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-07-16;13:47:00;PIAZZA S.MICHELE;sn;;Incidente stradale con feriti;Tamponamento;2;0;3;1;0;0;0
+2014-07-16;17:15:00;ASSE MEDIANO DI SCORRIMENTO;KM.6,500;;Incidente stradale con feriti;Uscita x sbandamento;1;1;0;0;1;0;0
+2014-07-16;18:10:00;VIALE GUGLIELMO MARCONI;fr iperpan;;Incidente stradale con feriti;Tamponamento;3;2;2;1;0;0;0
+2014-07-16;21:20:00;PIAZZA GIOVANNI XXIII;sn;VIA DON MACCHIONI;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-07-17;19:36:00;VIA BACAREDDA;sn;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-07-17;20:29:00;VIALE COLOMBO;16;;Incidente stradale con feriti;Tamponamento;3;2;1;0;0;0;0
+2014-07-18;12:26:00;VIA BUGGERRU;sn;;Incidente stradale senza feriti;Tamponamento;4;3;1;0;0;0;0
+2014-07-18;16:24:00;VIA BERLINO;sn;VIA DELL` ABBAZIA;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-07-19;14:51:00;VIA ISOLA S.PIETRO;sn;;Incidente stradale senza feriti;Cambio di corsia;2;2;0;0;0;0;0
+2014-07-19;16:12:00;VIALE MONASTIR;66;;Incidente stradale senza feriti;Urto con veicolo in sosta;4;2;0;0;0;0;0
+2014-07-19;20:41:00;VIALE BONARIA;sn;VIALE CIMITERO;Incidente stradale senza feriti;Urto anteriore;2;2;0;0;0;0;0
+2014-07-20;14:16:00;ASSE MEDIANO DI SCORRIMENTO;sn;ROTATORIA STAMIRA/PERETTI;Incidente stradale con feriti;Tamponamento;2;2;1;2;0;0;0
+2014-07-20;17:58:00;VIA ROMA;50;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-07-21;01:10:00;VIALE POETTO;sn;PIAZZA ARCIPELAGHI;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-07-21;12:25:00;VIA BROTZU;sn;VIA BINAGHI;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-07-21;13:28:00;VIALE LA PLAIA;sn;VICO LA PLAIA;Incidente stradale con feriti;Frontale / laterale;2;1;2;1;0;0;0
+2014-07-21;18:31:00;VIA CAPULA;sn;VIA S.CARLO BORROMEO;Incidente stradale con feriti;Frontale / laterale;3;1;2;0;1;0;0
+2014-07-22;12:35:00;VIALE LA PLAIA;sn;VICO LA PLAIA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-07-22;12:49:00;ASSE MEDIANO DI SCORRIMENTO;KM. 1,600;;Incidente stradale senza feriti;Tamponamento;2;0;2;0;0;0;0
+2014-07-22;13:41:00;STRADA MARCONI BIS (ARGINALE);sn;VIALE GUGLIELMO MARCONI;Incidente stradale con feriti;Tamponamento;4;2;2;1;0;0;0
+2014-07-22;13:54:00;VIA LIGURIA;sn;VIA ISTRIA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-07-23;04:57:00;VIA SINI;2;;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;1;0;0;0
+2014-07-23;08:49:00;PIAZZA GIOVANNI XXIII;sn;VIA DON MACCHIONI;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-07-23;09:13:00;VIALE BUONCAMMINO;sn;;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-07-23;18:37:00;VIALE GUGLIELMO MARCONI;sn;STRADA MARCONI BIS (ARGINALE);Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-07-23;19:03:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale senza feriti;Urto laterale;3;2;2;3;0;0;0
+2014-07-24;07:16:00;VIA S.AGOSTINO;sn;PIAZZA MATTEOTTI;Incidente stradale con feriti;Tamponamento;3;4;0;3;0;0;0
+2014-07-24;15:27:00;PIAZZA MARCO POLO;sn;VIALE DIAZ;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-07-24;15:57:00;VIA TIGELLIO;sn;VIA CARBONAZZI;Incidente stradale con feriti;Frontale / laterale;2;3;0;2;0;0;0
+2014-07-24;17:04:00;VIA ARQUER;37;;Danneggiamento;Cornicione su auto;1;0;0;0;0;0;0
+2014-07-25;11:47:00;VIALE S.AVENDRACE;sn;VIA FLUMENDOSA;Incidente stradale con feriti;Frontale / laterale;2;1;2;0;1;0;0
+2014-07-25;14:01:00;VIALE CIMITERO;sn;VIALE BONARIA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-07-25;18:17:00;VIA PERGOLESI;sn;VIA DONIZETTI;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-07-26;13:48:00;VIALE DIAZ;sn;VIA CABOTO;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;0;0;0;0
+2014-07-26;21:24:00;VIALE LA PLAIA;sn;VIA SASSARI;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-07-26;22:50:00;VIALE ELMAS;sn;VIA DEL FANGARIO;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-07-27;13:56:00;VIA ISOLA S.PIETRO;sn;VIA ISOLA S.DOMINO;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-07-27;18:53:00;VIA BACAREDDA;sn;VIA S.ALENIXEDDA;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-07-27;18:45:00;VIA FARINA;40;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-07-28;09:24:00;VIA ITALIA;sn;VIA SIRONI;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-07-28;10:59:00;VIALE GUGLIELMO MARCONI;sn;;Incidente stradale con feriti;Manovra di retromarcia;1;1;1;1;0;0;0
+2014-07-28;12:04:00;VIA COCCO ORTU;sn;VIA DANTE;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-07-28;12:49:00;VIA PUCCINI;sn;;Incidente stradale con feriti;Semaforo rosso;2;2;0;0;0;0;0
+2014-07-28;15:57:00;VIALE GUGLIELMO MARCONI;74;;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-03-28;08:31:00;VIA RIVA VILLASANTA;sn;VIA FAMAGOSTA;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-03-28;10:28:00;VIA XXVIII FEBBRAIO;sn;VIA GRANDI;Incidente stradale senza feriti;Urto laterale;2;1;0;0;0;0;0
+2014-03-28;11:51:00;VIA IS MAGLIAS;174;;Incidente stradale con feriti;Frontale / laterale;2;1;2;1;0;0;0
+2014-03-28;14:12:00;ROTATORIA CADELLO;sn;VIA S.MARIA CHIARA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-03-28;18:12:00;VIALE MONASTIR;sn;VIA LUNIGIANA;Incidente stradale con feriti;Urto laterale;2;1;1;1;0;0;0
+2014-03-28;20:16:00;VIALE GUGLIELMO MARCONI;sn;VIA NEWTON;Incidente stradale con feriti;Tamponamento;1;1;2;2;0;0;0
+2014-03-29;11:53:00;VIA DEL RISORGIMENTO;sn;PIAZZA ITALIA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-03-29;11:58:00;VIA S.BENEDETTO;sn;;Incidente stradale senza feriti;Urto anteriore;2;2;0;0;0;0;0
+2014-03-29;14:40:00;VIALE DIAZ;sn;PIAZZA MADRE TERESA DI CALCUTTA;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-03-30;00:18:00;VIALE BUONCAMMINO;sn;PIAZZA D`ARMI;Incidente stradale con feriti;Tamponamento;2;0;2;1;0;0;0
+2014-03-31;15:38:00;VIA IS MAGLIAS;174;;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-03-31;19:14:00;VIA RIVA VILLASANTA;97;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-04-01;10:02:00;PIAZZA DE ESQUIVEL;sn;VIA CADELLO;Incidente stradale con feriti;Frontale / laterale;2;1;2;3;0;0;0
+2014-04-01;12:25:00;PIAZZA DEL CARMINE;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;0;1;0;0
+2014-04-01;14:03:00;VIA SCANO;55;;Incidente stradale con feriti;Cambio di corsia;2;2;1;2;0;0;0
+2014-04-01;15:12:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale senza feriti;Tamponamento;3;1;2;0;0;0;0
+2014-04-01;16:28:00;VIA MILANO;sn;VIA MESSINA;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-04-01;20:27:00;STRADA MARCONI BIS (ARGINALE);sn;;Incidente stradale con feriti;Tamponamento;3;2;1;2;0;0;0
+2014-04-01;22:33:00;VIA DELL`  ARTIGIANATO;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-04-02;08:35:00;VIALE POETTO;sn;VIA VERGINE DI LLUC;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-04-02;09:51:00;VIA PO;sn;VIALE ELMAS;Incidente stradale senza feriti;Apertura portiera;2;2;0;0;0;0;0
+2014-04-02;15:19:00;VIA CONTE VERDE;03;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-04-02;17:43:00;VIA TIRSO;sn;VIALE S.AVENDRACE;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-04-02;21:56:00;VIA ROMA;sn;VIA BAYLLE;Incidente stradale con feriti;Tamponamento;2;3;0;1;0;0;0
+2014-04-03;01:41:00;VIA SASSARI;sn;VIA MAMELI;Incidente stradale con feriti;Frontale / laterale;2;1;2;2;1;0;0
+2014-04-03;08:46:00;VIA DELL`IPPODROMO;sn;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-04-03;11:03:00;VIA BOITO;sn;VIA S.BENEDETTO;Incidente stradale con feriti;Investimento di pedone;1;2;0;0;0;0;0
+2014-04-03;12:28:00;VIA DOLCETTA;sn;VIALE MONASTIR;Incidente stradale con feriti;Tamponamento;3;2;2;3;0;0;0
+2014-04-03;14:08:00;VIA TRAMONTANA;sn;VIALE POETTO;Incidente stradale con feriti;Frontale / laterale;2;0;2;0;1;0;0
+2014-04-03;14:51:00;VIA MARTINI;3;;Danneggiamento;Urto con cassonetto;1;0;0;0;0;0;0
+2014-04-03;14:05:00;VIA RIVA VILLASANTA;56;;Incidente stradale con feriti;Tamponamento;4;4;2;4;0;0;0
+2014-04-03;17:02:00;VIALE TRIESTE;166;;Danneggiamento;Ramo su auto;1;0;0;0;0;0;0
+2014-04-03;21:58:00;VIALE POETTO;sn;VIA S`ARRULLONI;Incidente stradale senza feriti;Svolta a sinistra irregolare;2;1;1;0;0;0;0
+2014-04-04;08:27:00;VIA ANGLONA;sn;OGLIASTRA;Incidente stradale con feriti;Frontale / laterale;2;1;1;0;1;0;0
+2014-04-04;08:43:00;VIA REDIPUGLIA;63;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-04-04;09:40:00;VIA TRINCEA D. RAZZI;sn;;Danneggiamento;Danneggiamento auto in sosta;2;0;0;0;0;0;0
+2014-04-04;11:16:00;VIA ROMA (LUNGOMARE);sn;;Incidente stradale senza feriti;Caduta dal veicolo x Gasolio sul manto stradale;6;5;1;0;0;0;0
+2014-04-04;15:03:00;VIA LIGURIA;22;;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-04-04;19:12:00;PIAZZA REPUBBLICA;sn;VIA TUVERI;Incidente stradale con feriti;Investimento di pedone;1;0;2;0;1;0;0
+2014-04-05;02:35:00;LARGO CARLO FELICE;sn;VIA MAMELI;Incidente stradale con feriti;Frontale / laterale;2;3;0;1;1;0;0
+2014-04-05;16:12:00;VIA TUVERI;58;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-04-06;09:05:00;PIAZZA GRANATIERI DI SARDEGNA;3;;Danneggiamento;;0;0;0;0;0;0;0
+2014-04-06;10:30:00;PIAZZA GRANATIERI DI SARDEGNA;3;;Danneggiamento;Ramo su auto;1;0;0;0;0;0;0
+2014-04-06;11:26:00;ROTATORIA CADELLO;sn;VIA S.MARIA CHIARA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-04-06;14:22:00;PIAZZA MADRE TERESA DI CALCUTTA;sn;VIALE CIMITERO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-04-06;18:23:00;VIA ABRUZZI;2;;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-04-07;08:32:00;VIA CABRAS;sn;;Incidente stradale con feriti;Caduta dal veicolo x imperizia;1;1;0;1;0;0;0
+2014-04-07;09:07:00;LUNGOMARE POETTO;sn;VIA MONTECRISTO;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-04-07;11:21:00;VIALE ELMAS;sn;VIA DELL`AGRICOLTURA;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-04-07;12:17:00;VIA PO;sn;PIAZZA S.AVENDRACE;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-04-07;12:34:00;VIA CAMMINO NUOVO;sn;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-04-07;14:23:00;VIA MILANO;sn;VIA BRESCIA;Incidente stradale con feriti;Frontale / laterale;4;2;0;1;0;0;0
+2014-04-07;14:03:00;VIA IS MAGLIAS;sn;VIA ASIAGO;Incidente stradale con feriti;Frontale / laterale;2;1;2;1;0;0;0
+2014-04-07;14:25:00;PIAZZA DEL CARMINE;sn;VIA SASSARI;Danneggiamento;Cornicione su auto;1;0;0;0;0;0;0
+2014-04-07;18:27:00;VIA CENTRALE;sn;VIA DELLE SPIGHE;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-04-08;09:25:00;VIALE GUGLIELMO MARCONI;sn;VIA EDISON;Incidente stradale con feriti;Tamponamento;2;0;2;1;0;0;0
+2014-04-08;10:25:00;VIA CONTE VERDE;4B;VIA PRINCIPE AMEDEO;Danneggiamento;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-04-08;11:01:00;VIA IS MIRRIONIS;103;;Incidente stradale con feriti;Tamponamento;3;3;1;1;0;0;0
+2014-04-08;11:09:00;VIALE BONARIA;4;;Danneggiamento;Manovra di retromarcia;1;0;1;0;0;0;0
+2014-04-08;12:58:00;VIA S.MARIA CHIARA;sn;VIA CALAMATTIA;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-04-08;15:11:00;VIA CORNALIAS;sn;VIA BRIANZA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-04-08;17:28:00;VIA S.MARIA CHIARA;sn;VIA MASANIELLO;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-04-08;18:11:00;VIA IS MIRRIONIS;sn;VIA LA NURRA;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-04-08;18:16:00;S.S. 195;km.2,300;;Incidente stradale con feriti;Uscita x sbandamento;2;1;1;0;1;0;0
+2014-04-09;09:22:00;S.S. 195;sn;;Incidente stradale con feriti;Tamponamento;3;3;1;3;0;0;0
+2014-04-09;10:44:00;VIA CALAMATTIA;12;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-04-09;12:03:00;PIAZZA PADRE PIO;sn;VIA SCANO;Incidente stradale senza feriti;Urto laterale;2;0;2;0;0;0;0
+2014-04-09;13:17:00;VIA SCANO;sn;VIA LEO PIETRO;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-04-09;16:27:00;VIA SEGNI;sn;VIA PAOLO SPRIANO;Incidente stradale senza feriti;Caduta dal veicolo x imperizia;2;2;0;0;0;0;0
+2014-04-09;17:47:00;VIA CORSICA;25;;Danneggiamento;Urto con cassonetto;0;1;0;0;0;0;0
+2014-04-09;18:25:00;VIA RIVA VILLASANTA;220;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-04-10;09:44:00;VIALE CIMITERO;sn;VIALE DIAZ;Incidente stradale senza feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-04-10;10:38:00;PIAZZA GIOVANNI XXIII;10;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-04-10;20:19:00;VIA ROMA (LUNGOMARE);sn;;Incidente stradale con feriti;Tamponamento;3;2;2;2;0;0;0
+2014-04-11;11:32:00;VIA CALAMATTIA;10;;Incidente stradale senza feriti;Frontale / laterale;4;0;2;0;0;0;0
+2014-04-11;14:01:00;ROTATORIA CADELLO;sn;VIA S.MARIA CHIARA;Incidente stradale senza feriti;Tamponamento;2;0;2;0;0;0;0
+2014-04-11;17:36:00;VIALE COLOMBO;sn;VIA SONNINO;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-04-11;19:46:00;LARGO CARLO FELICE;sn;VIA DETTORI;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-04-12;10:46:00;VIA RIVA VILLASANTA;99;;Incidente stradale senza feriti;Urto laterale;3;2;0;0;0;0;0
+2014-04-12;11:17:00;VIA GIUD.SSA BENEDETTA;44;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-04-12;14:54:00;VIALE LA PLAIA;sniperpan;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-04-12;19:16:00;VIA MANDROLISAI;sn;VIA EMILIA;Incidente stradale con feriti;Urto con veicolo in sosta;3;0;3;2;0;0;0
+2014-04-14;06:08:00;VIA IGLESIAS;42;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-04-14;12:24:00;VIALE DIAZ;sn;VIA CABOTO;Incidente stradale senza feriti;Tamponamento;3;2;1;0;0;0;0
+2014-04-14;14:24:00;VIA SOCRATE;9;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-04-14;15:21:00;VIA S.GILLA;131;;Incidente stradale senza feriti;Tamponamento;3;3;0;0;0;0;0
+2014-04-15;07:38:00;VIA S.MARGHERITA;39;;Danneggiamento;Urto con cassonetto;1;0;0;0;0;0;0
+2014-04-15;08:53:00;VIA BACAREDDA;1;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-04-15;09:41:00;VIA DEI GIUDICATI;sn;VIA GIUD.SSA BENEDETTA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-04-15;14:29:00;VIA CUGIA;sn;;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-04-15;16:57:00;VIALE REG. ELENA;sn;PIAZZA COSTITUZIONE;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-04-15;21:05:00;VIA CADELLO;sn;;Incidente stradale con feriti;Frontale / laterale;2;3;0;1;1;0;0
+2014-04-15;20:36:00;VIA CADELLO;sn;VIA DEL SEMINARIO;Incidente stradale con feriti;Urto laterale;2;1;2;1;0;0;0
+2014-04-16;15:19:00;VIA CARROZ;sn;;Incidente stradale senza feriti;Manovra di retromarcia;2;1;1;0;0;0;0
+2014-04-16;19:18:00;VIA GARFAGNANA;sn;VIA ROMAGNA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-04-16;19:06:00;ROTATORIA IS PONTIS PARIS;sn;;Incidente stradale senza feriti;Frontale / laterale;2;0;2;0;0;0;0
+2014-04-17;15:55:00;VIA CAVOUR;48;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-04-17;17:44:00;VIALE COLOMBO;sn;;Incidente stradale con feriti;Tamponamento;2;2;2;2;0;0;0
+2014-04-17;18:18:00;VIA ROVERETO;4;;Incidente stradale con feriti;Urto con veicolo in sosta;3;0;1;1;0;0;0
+2014-04-17;21:43:00;VIALE REG. ELENA;sn;;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;1;0;0;0;0;0
+2014-04-17;23:33:00;VIALE EUROPA;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;1;1;0;0;0;0;0
+2014-04-18;09:59:00;PIAZZA S.BARTOLOMEO;sn;;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-04-18;15:21:00;PIAZZA S.AVENDRACE;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-04-18;19:21:00;VIALE MONASTIR;fr fornaci;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-04-19;06:30:00;VIA VIDAL;sn;;Incidente stradale senza feriti;Danneggiamento auto in sosta;2;0;0;0;0;0;0
+2014-04-19;18:34:00;VIA DOLCETTA;sn;VIALE MONASTIR;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-04-20;23:58:00;VIA SOLMI;10;;Incidente stradale senza feriti;Urto con veicolo in sosta;3;1;0;0;0;0;0
+2014-04-22;03:32:00;VIA CONVERSI;sn;VIA DELL` ABBAZIA;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-04-22;13:34:00;VIA SONNINO;142;;Incidente stradale con feriti;Tamponamento;4;3;1;1;0;0;0
+2014-04-23;10:10:00;VIA S.CARLO BORROMEO;sn;VIA CAPULA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-04-23;14:35:00;VIALE GUGLIELMO MARCONI;sn;VIA TOMMASEO;Incidente stradale con feriti;Urto laterale;2;1;1;0;1;0;0
+2014-04-23;17:11:00;VIA ITALIA;FR.125;;Incidente stradale con feriti;Frontale / laterale;2;2;0;0;1;0;0
+2014-04-23;17:24:00;VIA CIUSA;sn;VIA S.CARLO BORROMEO;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-04-23;17:58:00;VIA BALILLA;2;;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-04-23;20:42:00;VIA MILANO;sn;VIA AREZZO;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-04-24;15:32:00;VIALE REG. ELENA;sn;;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-04-24;17:37:00;VIALE LA PLAIA;sn;;Incidente stradale con feriti;Urto laterale;2;4;0;2;0;0;0
+2014-04-24;18:46:00;VIA TRINCEA D. FRASCHE;sn;VIA MONTE SANTO;Incidente stradale con feriti;Precedenza;2;1;1;1;0;0;0
+2014-04-24;19:36:00;CIRCON. 131 DIR.;sn;;Incidente stradale con feriti;Tamponamento;3;3;0;1;0;0;0
+2014-04-25;14:23:00;VIA IS MAGLIAS;sn;VIA S.MICHELE;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-04-25;16:04:00;VIALE LA PLAIA;sn;VIA SASSARI;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-04-25;18:17:00;VIA DEL FANGARIO;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-04-26;06:49:00;VIALE GUGLIELMO MARCONI;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-04-26;14:48:00;VIA IS MIRRIONIS;sn;VIA GIPPI;Incidente stradale con feriti;Tamponamento;4;4;1;2;0;0;0
+2014-04-26;15:27:00;PIAZZA MATTEOTTI;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-04-27;00:47:00;ASSE MEDIANO DI SCORRIMENTO;km. 4,200;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-04-27;03:35:00;VIALE DIAZ;sn;PONTE VITTORIO;Incidente stradale con feriti;Uscita x sbandamento;1;0;4;4;0;0;0
+2014-04-27;06:23:00;VIA RIVA VILLASANTA;32;;Incidente stradale senza feriti;Uscita x sbandamento;1;0;1;0;0;0;0
+2014-04-27;11:49:00;VIALE S.AVENDRACE;241;;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;0;1;0;0;0;0
+2014-04-27;21:28:00;VIA ABRUZZI;10;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-04-28;12:56:00;VIA ROMA;sn;VIALE REG. MARGHERITA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-04-28;15:55:00;VIA ITALIA;sn;VIA SINNAI;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-04-28;21:10:00;VIA CADELLO;sn;;Incidente stradale con feriti;Uscita x sbandamento;1;0;1;1;0;0;0
+2014-04-29;09:15:00;ASSE MEDIANO DI SCORRIMENTO;cavalcavia cadello;;Incidente stradale senza feriti;Tamponamento;4;2;2;0;0;0;0
+2014-04-29;10:13:00;VIA VALENZANI;inizio dalla rot;ROTATORIA CADELLO;Incidente stradale senza feriti;Urto laterale;2;0;2;0;0;0;0
+2014-04-29;14:27:00;VIALE TRIESTE;186;;Incidente stradale senza feriti;Tamponamento;0;0;0;0;0;0;0
+2014-04-29;14:43:00;VIALE TRIESTE;168;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-04-29;15:55:00;PIAZZA PIGAFETTA;6;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-04-30;10:05:00;VIA PESSAGNO;sn;;Danneggiamento;Ramo su auto;1;1;0;0;0;0;0
+2014-04-30;12:01:00;VIA CARBONI BOI;sn;;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;1;1;1;0;0;0;0
+2014-04-30;17:22:00;VIALE COLOMBO;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;1;0;0;0;0
+2014-04-30;18:48:00;VIA TUVERI;2;;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;1;0;1;0;0;0
+2014-05-01;14:47:00;ROTATORIA CADELLO;sn;VIA IS MIRRIONIS;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-05-02;06:21:00;VIALE DIAZ;94;;Incidente stradale con feriti;Uscita x sbandamento;1;2;0;0;0;2;0
+2014-05-02;09:31:00;VIA PERGOLESI;sn;VIA DONIZETTI;Incidente stradale mortale;Investimento di pedone;1;2;1;1;0;0;1
+2014-05-02;10:17:00;VIA CAPULA;sn;VIA DEI DONORATICO;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-05-03;07:29:00;ASSE MEDIANO DI SCORRIMENTO;km.6,400;;Incidente stradale con feriti;Uscita x sbandamento;1;0;1;1;0;0;0
+2014-05-03;10:38:00;VIA AZUNI;88;;Danneggiamento;Caduta di Pedone accidentale;0;0;1;1;0;0;0
+2014-05-03;12:18:00;VIA CORNALIAS;sn;VIA CINQUINI;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-05-03;18:29:00;VIA SCANO;sn;VIA CUGIA;Incidente stradale senza feriti;Immissione nel flusso della circolazione;2;2;0;0;0;0;0
+2014-05-03;23:45:00;PIAZZA MARGHINOTTI;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-05-04;02:26:00;VIA SCHIAVAZZI;42;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-05-04;12:01:00;VIA QUIRRA;sn;VIA BRIANZA;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-05-04;14:01:00;VIALE COLOMBO;sn;;Incidente stradale con feriti;Investimento di pedone;1;0;2;0;1;0;0
+2014-05-04;20:36:00;VIA LUNGO SALINE;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-05-04;22:45:00;VIA STAMIRA;7;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-05-05;08:42:00;VIA BALILLA;20;;Incidente stradale senza feriti;Tamponamento;4;2;2;0;0;0;0
+2014-05-05;09:31:00;VIALE TRIESTE;sn;VIA BRUSCU ONNIS;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;0;1;0;0;0;0
+2014-05-05;10:48:00;VIA ITALIA;161;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-05-05;12:20:00;VIA SONNINO;sn;VIA ALGHERO;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-05-05;17:02:00;VIA RIVA DI PONENTE;sn;PORTO MOLO S.AGOSTINO;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-05-05;17:04:00;VIA AZUNI;sn;PIAZZA YENNE;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-05-05;19:14:00;VIA DANTE;85;VIA CINO DA PISTOIA;Incidente stradale con feriti;Apertura portiera;2;2;1;1;0;0;0
+2014-05-05;20:51:00;VIA MERCALLI;sn;STRADA MARCONI BIS (ARGINALE);Incidente stradale con feriti;Urto laterale;2;2;1;1;1;0;0
+2014-05-06;09:32:00;ASSE MEDIANO DI SCORRIMENTO;km.8,700;;Incidente stradale con feriti;Tamponamento;3;1;2;1;0;0;0
+2014-05-06;16:45:00;VIALE POETTO;sn;;Incidente stradale con feriti;Tamponamento;2;1;2;1;0;0;0
+2014-05-06;18:11:00;VIALE GUGLIELMO MARCONI;54;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-05-07;01:24:00;VIA IS MIRRIONIS;sn;VIA CORNALIAS;Incidente stradale con feriti;Frontale / laterale;3;3;1;3;0;0;0
+2014-05-07;12:33:00;VIA JENNER;sn;VIA DEGLI ANCARANI;Incidente stradale con feriti;Tamponamento;2;3;1;2;0;0;0
+2014-05-07;14:14:00;PIAZZA MATTEOTTI;sn;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-05-07;14:18:00;VIA PALESTRINA;28;;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-05-07;13:43:00;VIALE GUGLIELMO MARCONI;sn;VIA VIENNA;Incidente stradale senza feriti;Frontale / laterale;2;0;2;0;0;0;0
+2014-05-07;20:39:00;VIA UTZERI  SAMUELE;8;;Incidente stradale con feriti;Caduta dal veicolo x Buca;1;1;0;1;0;0;0
+2014-05-07;23:48:00;VIA DELLE RANE;sn;VIA DEL CANNETO;Incidente stradale con feriti;Tamponamento;5;4;1;3;0;0;0
+2014-05-08;10:39:00;VIA S.MARIA CHIARA;sn;VIA DEI TIGLI;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-05-08;14:41:00;SCALE MONACHE CAPPUCCINE;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;0;0;0;0
+2014-05-08;17:35:00;VIA STAMIRA;7;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-05-08;19:03:00;S.S. 554;km. 2,800;;Incidente stradale con feriti;Uscita x sbandamento;1;1;0;1;0;0;0
+2014-05-09;11:31:00;VIA CRESPELLANI;sn;VIA PIERO DELLA FRANCESCA;Incidente stradale con feriti;Frontale / laterale;2;0;2;0;1;0;0
+2014-05-09;13:50:00;VIA MONS. PIOVELLA;63;;Incidente stradale con feriti;Tamponamento;3;1;3;2;0;0;0
+2014-05-09;17:41:00;LUNGOMARE POETTO (BRETELLA OSPEDALE MARINO);sn;VIA DELL`IDROVORA;Incidente stradale senza feriti;Manovra di retromarcia;2;2;0;0;0;0;0
+2014-05-10;10:55:00;VIA QUIRRA;civ.3;;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-05-10;17:16:00;VIA MAMELI;sn;VIA POLA;Incidente stradale senza feriti;Apertura portiera;2;1;1;0;0;0;0
+2014-05-10;18:51:00;VIA IS MIRRIONIS;sn;VIA GIOTTO;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-05-11;00:32:00;VIA BARCELLONA;89;;Incidente stradale con feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-05-11;16:47:00;VIALE DIAZ;sn;VIALE CIMITERO;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;1;0;0;0
+2014-05-12;11:49:00;PARCHEGGIO BANCA CIS;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-05-13;11:58:00;VIALE TRIESTE;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-05-13;14:29:00;VIALE MONASTIR;17;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-05-13;17:04:00;VIALE S.AVENDRACE;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-05-13;17:25:00;VIA CARLOFORTE;94;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;0;1;0;0
+2014-05-13;19:38:00;VIA MAMELI;118;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-05-13;19:22:00;PIAZZA DE ESQUIVEL;sn;;Danneggiamento;Urto con cassonetto;1;0;0;0;0;0;0
+2014-05-14;10:29:00;VIA IS MIRRIONIS;sn;;Incidente stradale con feriti;Investimento di pedone;1;2;0;0;1;0;0
+2014-05-14;12:01:00;VIA GENNERUXI;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-05-14;14:23:00;S.S. 195;sn;;Incidente stradale con feriti;Uscita x sbandamento;1;2;2;4;0;0;0
+2014-05-15;11:30:00;PORTO MOLO S.AGOSTINO;sn;;Incidente stradale con feriti;Tamponamento;2;2;1;1;0;0;0
+2014-05-15;18:30:00;VIA IS MIRRIONIS;cus;;Incidente stradale con feriti;Urto laterale;2;1;1;1;0;0;0
+2014-05-15;23:58:00;VIA CIUSA;67;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-05-16;08:29:00;VIA TAMBURINO SARDO;sn;VIA SOCRATE;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-05-16;10:56:00;VIALE MONASTIR;84;;Incidente stradale con feriti;Cambio di corsia;2;2;0;0;1;0;0
+2014-05-16;14:27:00;VIA CADELLO;sn;VIA IS MIRRIONIS;Incidente stradale con feriti;Frontale / laterale;2;1;1;0;1;0;0
+2014-05-16;15:30:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-05-16;18:12:00;VIA BACAREDDA;sn;VIA S.ALENIXEDDA;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-05-16;18:28:00;PIAZZA DEFFENU;sn;VIALE COLOMBO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-05-17;09:16:00;PIAZZA MATTEOTTI;sn;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-05-17;09:46:00;VIA VIENNA;sn;VIALE GUGLIELMO MARCONI;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-05-17;11:05:00;VIALE GUGLIELMO MARCONI;74;;Incidente stradale con feriti;Tamponamento;3;2;1;1;0;0;0
+2014-05-17;11:42:00;VIA TRAMONTANA;sn;VIA AQUILONE;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-05-17;12:42:00;VIALE DIAZ;sn;VIA CATANIA;Incidente stradale con feriti;Caduta dal veicolo x imperizia;2;1;2;1;0;0;0
+2014-05-17;16:07:00;VIA ROMA;91-93;;Danneggiamento;Cornicione su auto;2;0;0;0;0;0;0
+2014-05-17;17:58:00;VIA AMAT;sn;VIA CUGIA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-05-17;21:43:00;VIA DEGLI ASTRI;sn;VIA DE CHIRICO;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;0;1;0;0;0;0
+2014-05-18;16:03:00;PIAZZA SAN BENEDETTO;sn;;Incidente stradale con feriti;Uscita x sbandamento;1;1;1;1;0;0;0
+2014-05-18;17:41:00;VIA OSPEDALE;22;;Danneggiamento;Cornicione su auto;1;0;0;0;0;0;0
+2014-05-18;22:10:00;VIA ISTRIA;sn;VIA MOLISE;Incidente stradale con feriti;Frontale / laterale;2;2;1;1;0;0;0
+2014-05-19;10:37:00;VIA DEI GIUDICATI;sn;;Incidente stradale senza feriti;Apertura portiera;2;2;0;0;0;0;0
+2014-05-19;14:03:00;VIA ROMA;sn;;Incidente stradale senza feriti;Apertura portiera;2;2;0;0;0;0;0
+2014-05-19;15:50:00;PIAZZA REPUBBLICA;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-05-20;12:39:00;VIA IS MIRRIONIS;sn;VIA LA NURRA;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-05-20;13:22:00;VIALE BONARIA;118;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;1;0;0;0;0
+2014-05-20;19:27:00;VIA ROMA;sn;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-05-21;13:31:00;PIAZZA DEFFENU;sn;VIALE COLOMBO;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-05-21;15:03:00;VIALE MONASTIR;sn;PIAZZA S.AVENDRACE;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-05-21;15:55:00;VIALE DIAZ;174;;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-05-21;17:38:00;VIA CARBONI BOI;7;;Danneggiamento;Ramo su auto;1;0;1;0;0;0;0
+2014-05-21;18:31:00;VIALE BONARIA;sn;;Danneggiamento;;0;0;0;0;0;0;0
+2014-05-21;19:47:00;VIA ROMA;sn;VIALE REG. MARGHERITA;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-05-21;18:59:00;VIALE MONASTIR;sn;VIA SEMELIA;Incidente stradale senza feriti;Urto con veicolo in sosta;5;1;0;0;0;0;0
+2014-05-22;00:13:00;VIA DEI TIGLI;sn;;Danneggiamento;Urto con cassonetto;1;0;0;0;0;0;0
+2014-05-22;10:49:00;VIA CIOCIARIA;4;VIA NEBIDA;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;1;0;1;0;0;0
+2014-05-22;12:55:00;VIA CONVERSI;sn;VIA SANJUST;Incidente stradale con feriti;Tamponamento;2;2;1;2;0;0;0
+2014-05-23;07:40:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-05-23;07:44:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale con feriti;Urto laterale;2;1;1;1;0;0;0
+2014-05-23;09:09:00;S.S. 195;sn;;Incidente stradale con feriti;Tamponamento;4;4;1;3;0;0;0
+2014-05-23;09:29:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale con feriti;Tamponamento;3;1;2;1;0;0;0
+2014-05-23;08:52:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale con feriti;Frontale / laterale;3;1;3;2;0;0;0
+2014-05-23;12:15:00;LARGO CARLO FELICE;10;;Incidente stradale senza feriti;Danneggiamento auto in sosta;2;0;0;0;0;0;0
+2014-05-23;13:10:00;ROTATORIA CADELLO;sn;;Danneggiamento;Caduta dal veicolo x imperizia;1;1;0;0;0;0;0
+2014-05-23;14:24:00;VIALE LA PLAIA;sn;VICO LA PLAIA;Incidente stradale senza feriti;Frontale / laterale;2;0;2;0;0;0;0
+2014-05-23;17:19:00;S.S. 195;km.2,000;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-05-23;18:20:00;VIA MEUCCI;14;;Incidente stradale senza feriti;Manovra di retromarcia;2;1;1;0;0;0;0
+2014-05-23;23:49:00;VIALE S.BARTOLOMEO;sn;VIA TRAMONTANA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-05-24;11:33:00;VIA COLOMBI;38;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-05-24;12:56:00;VIALE GUGLIELMO MARCONI;SN;VIA PACIOLI;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-05-25;04:39:00;VIA GUADAZZONIS;sn;VIA CONVERSI;Incidente stradale con feriti;Uscita x sbandamento;1;2;0;1;0;0;0
+2014-05-25;12:31:00;VIALE REG. ELENA;sn;;Incidente stradale con feriti;Tamponamento;2;1;2;2;0;0;0
+2014-05-25;23:42:00;VIALE GUGLIELMO MARCONI;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-05-26;09:56:00;VIA CIOCIARIA;2;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-05-26;12:47:00;VIA ROMA;101;;Incidente stradale con feriti;Frontale / laterale;2;1;2;2;0;0;0
+2014-05-28;09:52:00;VIA DELLA PINETA;253;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-05-27;23:57:00;VIA DEL POZZETTO;sn;VIA DEL SOLE;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;0;1;0;1;0;0
+2014-05-28;20:30:00;VIA MONTE SANTO;2;;Incidente stradale senza feriti;Urto con veicolo in sosta;4;1;0;0;0;0;0
+2014-05-29;15:39:00;VICO ELMAS;16;;Incidente stradale con feriti;Immissione nel flusso della circolazione;2;1;1;1;0;0;0
+2014-05-29;18:05:00;VIALE S.BARTOLOMEO;sn;VIALE FERRARA;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-05-30;13:52:00;ROTATORIA CADELLO;sn;VIA S.MARIA CHIARA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-05-31;09:28:00;VIALE TICCA;11;;Incidente stradale senza feriti;Uscita x sbandamento;1;0;0;0;0;0;0
+2014-05-31;21:22:00;VIA MANCINI;1;;Danneggiamento;Cornicione su auto;1;0;0;0;0;0;0
+2014-06-01;05:24:00;VIA PO;sn;VIA SIMETO;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-06-01;07:02:00;PIAZZA DE GASPERI;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;4;1;0;0;0;0;0
+2014-06-01;10:02:00;VIA TRAMONTANA;sn;VIALE POETTO;Incidente stradale con feriti;Frontale / laterale;3;3;1;1;1;0;0
+2014-06-01;15:04:00;VIALE MONASTIR;121;;Incidente stradale con feriti;Urto con veicolo in sosta;3;2;0;1;0;0;0
+2014-06-02;19:58:00;PIAZZA YENNE;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-06-03;10:21:00;VIA CORNALIAS;sn;VIA MARONGIU ALDO;Incidente stradale con feriti;Tamponamento;2;1;2;2;0;0;0
+2014-06-03;11:59:00;VIALE DIAZ;sn;VIA ANCONA;Danneggiamento;Urto laterale;1;1;0;0;0;0;0
+2014-06-03;12:39:00;VIA SONNINO;sn;VIA ALGHERO;Incidente stradale con feriti;Investimento di pedone;1;2;0;0;0;1;0
+2014-06-03;14:07:00;VIA IS MIRRIONIS;84;;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-06-03;18:21:00;PIAZZA YENNE;sn;;Danneggiamento;Ramo su auto;1;0;0;0;0;0;0
+2014-06-03;19:09:00;VIA DELLE CICALE;20;;Danneggiamento;Urto con cassonetto;1;0;0;0;0;0;0
+2014-06-03;22:44:00;VIA DELLA PINETA;sn;;Incidente stradale con feriti;Inversione di marcia;2;2;0;1;0;0;0
+2014-06-04;10:25:00;VIA PIERO DELLA FRANCESCA;sn;;Incidente stradale senza feriti;Cambio di corsia;2;2;0;0;0;0;0
+2014-06-04;11:06:00;VIALE MONASTIR;KM. 4,400;;Incidente stradale senza feriti;Urto laterale;3;2;1;0;0;0;0
+2014-06-04;21:03:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale con feriti;Tamponamento;4;2;2;1;0;0;0
+2014-06-05;07:37:00;S.S. 554;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-06-05;09:52:00;VIA MAMELI;sn;VIA POLA;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-06-05;16:31:00;PIAZZA SAN BENEDETTO;sn;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-06-05;17:32:00;VIA DEI GIUDICATI;5;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-06-05;19:35:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale senza feriti;Tamponamento;5;4;1;0;0;0;0
+2014-06-05;19:53:00;VIA BROTZU;sn;VIA BINAGHI;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-06-06;08:08:00;VIA DOLCETTA;sn;VIALE ELMAS;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-06-06;13:41:00;VIA CONTIVECCHI;8;;Incidente stradale senza feriti;Svolta a sinistra irregolare;2;2;0;0;0;0;0
+2014-06-06;21:41:00;VIA CARBONI BOI;sn;VIA SANNA RANDACCIO;Incidente stradale senza feriti;Urto con veicolo in sosta;3;0;2;0;0;0;0
+2014-06-07;12:24:00;VIA GIANTURCO;12;;Incidente stradale senza feriti;Apertura portiera;2;1;1;0;0;0;0
+2014-06-07;14:45:00;VIALE MONASTIR;sn;VIALE TICCA;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-06-07;18:29:00;CIRCONV. CASIC;sn;;Incidente stradale con feriti;Caduta dal veicolo x imperizia;1;0;1;1;0;0;0
+2014-06-08;12:11:00;VIA REDIPUGLIA;sn;VIA TRINCEA D. FRASCHE;Incidente stradale con feriti;Frontale / laterale;3;2;1;2;0;0;0
+2014-06-08;12:58:00;VIA IS MIRRIONIS;sn;VIALE BUONCAMMINO;Incidente stradale con feriti;Tamponamento;4;2;2;1;0;0;0
+2014-06-08;19:16:00;VIA PETRARCA;sn;VIA PASCOLI;Incidente stradale mortale;Investimento di pedone;1;1;2;0;1;0;1
+2014-06-09;09:40:00;VIA S.GILLA;89;;Incidente stradale senza feriti;Apertura portiera;2;1;1;0;0;0;0
+2014-06-09;10:01:00;VIA SONNINO;80;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-06-09;11:12:00;VIA JENNER;sn;;Incidente stradale con feriti;Tamponamento;2;1;3;2;0;0;0
+2014-06-09;11:44:00;PONTE VITTORIO;sn;VIALE POETTO;Incidente stradale con feriti;Tamponamento;2;3;0;2;0;0;0
+2014-06-09;14:20:00;VIA S.MARGHERITA;sn;VIA S.GIORGIO;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-06-10;00:05:00;VIA S`ARRULLONI;47;;Incidente stradale senza feriti;Urto con veicolo in sosta;4;1;0;0;0;0;0
+2014-06-10;17:34:00;ROTATORIA PERETTI;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-06-10;18:28:00;VIA TRINCEA D. RAZZI;76;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;1;0;0;1;0;0
+2014-06-10;20:45:00;VIA S.MICHELE;40;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-06-11;09:51:00;VIA GUADAZZONIS;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-06-11;12:32:00;VIA CADELLO;sn;VIA S.MARIA CHIARA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-06-11;12:22:00;VIA CADELLO;sn;ROTATORIA CADELLO/SANTA MARIA CHIARA;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-06-11;13:09:00;VIALE POETTO;sn;PIAZZA ARCIPELAGHI;Incidente stradale con feriti;Cambio di corsia;2;1;1;1;0;0;0
+2014-06-11;13:27:00;VIALE MONASTIR;sn;;Incidente stradale con feriti;Frontale / laterale;2;3;0;1;0;0;0
+2014-06-11;22:59:00;VIA CASTIGLIONE;82;;Incidente stradale con feriti;Investimento di pedone;2;2;0;1;1;0;0
+2014-06-12;00:09:00;LUNGOMARE POETTO;sn;VIA MONTECRISTO;Incidente stradale con feriti;Semaforo rosso;2;1;1;1;0;0;0
+2014-06-12;12:17:00;VIALE S.ELIA;scuole;VIA DEI MUSICISTI;Incidente stradale con feriti;Urto anteriore;2;2;0;0;0;1;0
+2014-06-13;10:28:00;VIA FILZI;sn;VIA FONSECA;Incidente stradale mortale;Uscita x sbandamento;0;1;0;0;0;0;1
+2014-06-13;16:19:00;VIA S.EUSEBIO;29;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-06-13;21:31:00;VIA S.MARIA CHIARA;159;;Incidente stradale con feriti;Investimento di pedone;1;0;1;0;1;0;0
+2014-06-14;12:29:00;LARGO CARLO FELICE;37;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-06-14;18:33:00;S.S. 195;sn;;Incidente stradale con feriti;Uscita x sbandamento;2;2;0;1;0;0;0
+2014-06-14;20:39:00;PIAZZA GIOVANNI XXIII;sn;VIA DON MACCHIONI;Incidente stradale con feriti;Caduta dal veicolo x imperizia;1;1;0;0;1;0;0
+2014-06-14;23:18:00;PIAZZA ARCIPELAGHI;sn;;Incidente stradale con feriti;Urto laterale;2;1;1;2;0;0;0
+2014-06-15;12:54:00;VIALE POETTO;sn;VIA PONZA;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-07-28;17:20:00;VIALE S.AVENDRACE;29;;Incidente stradale con feriti;Frontale / laterale;3;2;0;1;0;0;0
+2014-07-28;17:39:00;VIALE GUGLIELMO MARCONI;sn;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-07-29;10:12:00;VIA CIOCIARIA;5;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;0;0;0;0
+2014-07-29;11:37:00;VIALE LA PLAIA;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;0;1;0;0
+2014-07-29;16:39:00;VIALE MONASTIR;102;;Incidente stradale con feriti;Frontale / laterale;3;1;1;0;0;1;0
+2014-07-29;19:31:00;PONTE VITTORIO;sn;;Incidente stradale con feriti;Urto laterale;1;1;1;1;0;0;0
+2014-07-30;11:37:00;VIALE MONASTIR;100;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-07-30;12:36:00;VIA CAVARO;34;;Incidente stradale senza feriti;Apertura portiera;2;1;1;0;0;0;0
+2014-07-30;18:20:00;VIA S.BENEDETTO;7;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-07-31;10:09:00;VIA DEL FANGARIO;sn;;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-07-31;10:45:00;VIALE TRIESTE;sn;VIA POLA;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-07-31;13:59:00;VIALE GUGLIELMO MARCONI;64;;Incidente stradale con feriti;Frontale / laterale;2;1;1;2;0;0;0
+2014-07-31;19:05:00;VIA S.ALENIXEDDA;23;;Danneggiamento;Urto con cassonetto;1;0;0;0;0;0;0
+2014-07-31;19:14:00;VIA COLOMBI;32;;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-08-01;01:05:00;VIA MONS. VIRGILIO;14A;;Danneggiamento;Danneggiamento auto in sosta;2;0;0;0;0;0;0
+2014-08-01;08:06:00;VIA CORSICA;sn;VIA CURIE;Incidente stradale senza feriti;Frontale / laterale;3;1;1;0;0;0;0
+2014-08-01;08:58:00;VIA SASSARI;sn;PIAZZA MATTEOTTI;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-08-01;13:17:00;VIALE TRIESTE;187;;Incidente stradale con feriti;Investimento di pedone;1;2;0;0;1;0;0
+2014-08-01;20:29:00;VIALE COLOMBO;sn;;Incidente stradale senza feriti;Tamponamento;3;2;1;0;0;0;0
+2014-08-02;00:20:00;VIA DELLA PINETA;0;VIA FIRENZE;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-08-02;08:49:00;VIA S.LUCIFERO;5;;Incidente stradale senza feriti;Urto con veicolo in sosta;3;0;0;0;0;0;0
+2014-08-02;18:28:00;VIA DANTE;sn;VIA COCCO ORTU;Incidente stradale senza feriti;Investimento di pedone;1;1;1;0;0;0;0
+2014-08-02;18:42:00;VIA MAGLIAS;sn;VIA CASTELLI;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-08-02;22:17:00;VIA ROMA;sn;LARGO CARLO FELICE;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-08-03;20:41:00;VIA PO;11;;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-08-03;22:39:00;VIALE GUGLIELMO MARCONI;sn;VIA TOMMASEO;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-08-04;07:39:00;VIA S.GILLA;sn;VIA TAGLIAMENTO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-08-04;09:10:00;VIA FLUMENTEPIDO;61;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-08-04;10:19:00;ASSE MEDIANO DI SCORRIMENTO;sn;PONTE VITTORIO;Incidente stradale con feriti;Tamponamento;2;0;2;1;0;0;0
+2014-08-04;12:23:00;VIA VESALIO;sn;VIA DEL CANNETO;Incidente stradale con feriti;Urto laterale;2;0;2;1;0;0;0
+2014-08-04;18:58:00;VIA STAMIRA;sn;ROTATORIA STAMIRA/PERETTI;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-08-04;19:12:00;VIALE POETTO;98;;Incidente stradale con feriti;Tamponamento;3;2;1;0;1;0;0
+2014-08-04;19:31:00;VIALE TRIESTE;sn;VIA SAURO;Incidente stradale con feriti;Uscita x sbandamento;2;3;3;4;0;0;0
+2014-08-05;01:47:00;LUNGOMARE POETTO;sn;;Danneggiamento;Cornicione su auto;3;0;0;0;0;0;0
+2014-08-05;07:56:00;VIALE GUGLIELMO MARCONI;sn;VIA MEUCCI;Incidente stradale con feriti;Tamponamento;3;2;1;1;0;0;0
+2014-08-05;10:41:00;0 S.S. 195 RAC ( EX CASIC);KM.2,200;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-08-05;15:54:00;VIA S.GIORGIO;sn;;Incidente stradale con feriti;Frontale / laterale;2;2;1;1;0;0;0
+2014-08-05;19:06:00;VIA DEL SOLE;sn;VIA S`ARRULLONI;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-08-06;07:51:00;VIA DE CANDIA;sn;;Danneggiamento;Caduta dal veicolo x Gasolio sul manto stradale;1;1;0;0;0;0;0
+2014-08-06;10:26:00;VIALE CIMITERO;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;0;1;0;0;0;0
+2014-08-07;08:46:00;VIA UNIVERSITA`;sn;VIA DE CANDIA;Danneggiamento;Caduta dal veicolo x Gasolio sul manto stradale;1;1;0;0;0;0;0
+2014-08-07;09:43:00;VIA PONTIDA;16;;Incidente stradale senza feriti;Apertura portiera;2;0;2;0;0;0;0
+2014-08-07;11:17:00;VIA MARINA PICCOLA;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;1;0;0;0;0;0
+2014-08-07;14:13:00;VIA TRAMONTANA;sn;ASSE MEDIANO DI SCORRIMENTO;Incidente stradale con feriti;Uscita x sbandamento;1;0;1;0;0;0;0
+2014-08-07;18:26:00;ROTATORIA CADELLO/SANTA MARIA CHIARA;sn;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-08-08;01:04:00;VIA TRAMONTANA;sn;VIA EURO;Incidente stradale mortale;Frontale / laterale;2;2;0;0;0;0;1
+2014-08-08;08:45:00;VIALE DIAZ;sn;PIAZZA MADRE TERESA DI CALCUTTA;Incidente stradale con feriti;Apertura portiera;2;2;0;1;0;0;0
+2014-08-08;10:27:00;VIA COCCO ORTU;85;;Incidente stradale senza feriti;Apertura portiera;2;0;0;0;0;0;0
+2014-08-08;12:13:00;LARGO CARLO FELICE;sn;VIA DEL MERCATO VECCHIO;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-08-08;19:12:00;VIA TRAMONTANA;sn;;Incidente stradale con feriti;Tamponamento;3;1;3;1;0;0;0
+2014-08-08;22:25:00;VIALE S.AVENDRACE;237;;Incidente stradale con feriti;Urto con veicolo in sosta;2;1;1;2;0;0;0
+2014-08-09;09:13:00;VIALE S.AVENDRACE;2;;Incidente stradale con feriti;Investimento di pedone;1;2;0;0;0;1;0
+2014-08-09;09:13:00;VIALE DIAZ;alt ingr Fiera;;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-08-09;18:30:00;PIAZZA MARTIRI;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;1;0;0;0;0;0
+2014-08-10;00:16:00;VIA S.MARGHERITA;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-08-10;01:34:00;VIA TIEPOLO;sn;VIA PAOLO DA DORIA;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-08-10;02:25:00;VIALE ELMAS;sn;VIA DEL FANGARIO;Incidente stradale con feriti;Uscita x sbandamento;1;2;0;1;0;0;0
+2014-08-10;17:53:00;VIALE S.AVENDRACE;40;;Incidente stradale con feriti;Uscita x sbandamento;1;2;1;1;0;0;0
+2014-08-10;18:59:00;VIA PESSINA;sn;VIA SCANO;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-08-11;08:20:00;VIA UNIVERSITA`;sn;VIA MAZZINI;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;0;1;1;0;0;0
+2014-08-11;11:04:00;VIA PERETTI;5;;Incidente stradale con feriti;Investimento di pedone;1;0;2;0;1;0;0
+2014-08-11;20:23:00;VIA COSTANTINOPOLI;sn;PIAZZA ISLANDA;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;0;0;0;0
+2014-08-11;21:51:00;VIALE REG. MARGHERITA;sn;VIA E. D`ARBOREA;Incidente stradale con feriti;Tamponamento;3;1;2;2;0;0;0
+2014-08-31;08:55:00;VIA PO;sn;;Incidente stradale mortale;Investimento di pedone;1;2;0;0;0;0;1
+2014-08-31;15:55:00;VIA CORNALIAS;sn;VIA ABRUZZI;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-09-01;08:06:00;VIA XXVIII FEBBRAIO;sn;VIA DEL NASTRO AZZURRO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-09-01;11:29:00;VIA AMAT;sn;VIA PESSINA;Danneggiamento;Urto con cassonetto;1;1;0;0;0;0;0
+2014-09-01;12:20:00;VIA MARCHE;22;;Danneggiamento;Urto con cassonetto;1;0;0;0;0;0;0
+2014-09-01;12:47:00;VIA OSPEDALE;sn;;Danneggiamento;Urto con cassonetto;8;0;0;0;0;0;0
+2014-09-01;13:01:00;VIALE TRIESTE;sn;;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;1;0;1;0;0;0
+2014-09-01;12:54:00;VIA LOMBARDIA;sn;VIA TRENTINO;Danneggiamento;Cornicione su auto;1;0;0;0;0;0;0
+2014-09-01;13:40:00;VIA FARINA;11;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-09-02;08:00:00;VIA S.GIORGIO;sn;VIA S.MARGHERITA;Incidente stradale con feriti;Urto laterale;3;1;1;0;0;0;0
+2014-09-02;12:32:00;VIA FRATELLI BANDIERA;sn;VIA FAMAGOSTA;Incidente stradale senza feriti;Frontale / laterale;5;1;1;1;0;0;0
+2014-09-02;13:56:00;VIALE LA PLAIA;1;;Incidente stradale senza feriti;Urto laterale;3;2;1;0;0;0;0
+2014-09-02;18:11:00;VIALE ELMAS;16;;Incidente stradale senza feriti;Urto con veicolo in sosta;3;1;0;0;0;0;0
+2014-09-02;18:27:00;VIALE GUGLIELMO MARCONI;sn;VIA VIENNA;Incidente stradale con feriti;Frontale / laterale;2;2;0;0;1;0;0
+2014-09-03;10:14:00;VIA LUNGO SALINE;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-09-03;13:15:00;VIA S.GILLA;135;;Incidente stradale con feriti;Urto laterale;2;0;2;1;0;0;0
+2014-09-03;14:48:00;VIA CAMPIDANO;7;;Incidente stradale senza feriti;Apertura portiera;2;1;1;0;0;0;0
+2014-09-03;18:09:00;VIA SERBARIU;15;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-09-04;00:50:00;ASSE MEDIANO DI SCORRIMENTO;sn;PONTE VITTORIO;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-09-04;07:00:00;S.S. 195;KM.6,900;;Incidente stradale con feriti;Tamponamento;2;2;0;2;0;0;0
+2014-09-04;09:06:00;VIALE MONASTIR;sn;VIA TOFANE;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-09-04;18:56:00;LARGO CARLO FELICE;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;1;0;0;0;0;0
+2014-09-04;19:19:00;PIAZZA YENNE;5;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-09-05;07:23:00;VIALE POETTO;sn;VIA TRAMONTANA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-09-05;11:18:00;VIA ARGIOLAS;23;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-09-06;08:33:00;VIA DALMAZIA;sn;VIA PIEMONTE;Incidente stradale con feriti;Urto con veicolo in sosta;3;1;0;1;0;0;0
+2014-09-06;11:03:00;VIA DESSY DELIPERI;sn;;Incidente stradale con feriti;Urto anteriore;2;2;1;2;0;0;0
+2014-09-06;12:29:00;VIA MACOMER;SN;VIA S.GIOVANNI;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-09-06;19:01:00;VIA RAVENNA;sn;;Incidente stradale per caduta di pedone;Ramo su auto;0;0;1;0;0;0;0
+2014-09-06;19:42:00;VIA MASCAGNI;1;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-09-08;13:34:00;VIA MILANO;16;;Incidente stradale senza feriti;Apertura portiera;2;0;2;0;0;0;0
+2014-09-08;15:49:00;VIA CADELLO;32;;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-09-08;17:31:00;PIAZZA GIOVANNI XXIII;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;1;0;0;0
+2014-09-09;10:00:00;VIA IS MIRRIONIS;98;;Incidente stradale con feriti;Immissione nel flusso della circolazione;2;2;0;1;0;0;0
+2014-09-09;12:27:00;VIA CADELLO;sn;VIA CAMPANIA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-09-09;13:08:00;PIAZZA PITAGORA;2;;Danneggiamento;Cornicione su auto;1;0;0;0;0;0;0
+2014-09-09;16:44:00;VIALE BUONCAMMINO;sn;;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-09-09;16:22:00;VIA ISONZO;12;;Danneggiamento;Ramo su auto;1;0;0;0;0;0;0
+2014-09-09;17:09:00;VIA BIASI;sn;VIA CHIABRERA;Incidente stradale senza feriti;Inversione di marcia;2;1;1;0;0;0;0
+2014-09-09;22:44:00;VIA IS MIRRIONIS;94;;Incidente stradale con feriti;Immissione nel flusso della circolazione;2;1;1;0;1;0;0
+2014-09-10;05:20:00;VIA DEL SOLE;33;;Incidente stradale con feriti;Urto con veicolo in sosta;2;2;0;0;1;0;0
+2014-09-10;12:13:00;VIA TOMMASEO;10;VIA MACHIAVELLI;Incidente stradale senza feriti;Immissione nel flusso della circolazione;2;1;1;0;0;0;0
+2014-09-10;17:44:00;VIA DEI TRITONI;sn;;Incidente stradale senza feriti;Urto laterale;3;3;0;0;0;0;0
+2014-09-11;06:54:00;VIA DANTE;sn;VIA LOGUDORO;Incidente stradale con feriti;Frontale / laterale;2;3;0;1;1;0;0
+2014-09-11;09:02:00;VIALE COLOMBO;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-09-11;09:20:00;VIA BERLINO;sn;ASSE MEDIANO DI SCORRIMENTO;Incidente stradale con feriti;Tamponamento;2;3;0;2;0;0;0
+2014-09-11;10:17:00;VIA DUCA DI GENOVA;sn;VIA ARGIOLAS;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-09-11;11:11:00;VIA CARBONI BOI;sn;;Incidente stradale senza feriti;Manovra di retromarcia;2;1;1;0;0;0;0
+2014-09-11;11:25:00;VIA SEMELIA;sn;;Incidente stradale con feriti;Apertura portiera;2;1;1;1;0;0;0
+2014-09-11;12:25:00;VIA FIORELLI;sn;;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-09-11;15:18:00;VIA CADELLO;13;;Incidente stradale con feriti;Uscita x sbandamento;1;1;0;0;0;1;0
+2014-09-11;15:25:00;VIA DEL LENTISCO;sn;VIA S.MARIA GORETTI;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-09-11;21:21:00;VIALE MONASTIR;sn;VIA PUGLIA;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-09-12;07:59:00;ROTATORIA CADELLO/SANTA MARIA CHIARA;sn;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-09-12;09:02:00;VIA DON BOSCO;5;;Incidente stradale con feriti;Urto laterale;2;1;2;1;0;0;0
+2014-09-12;11:31:00;VIALE LA PLAIA;sn;VICO LA PLAIA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-09-12;15:18:00;VIA PO;sn;S.S. 195 RAC ( EX CASIC);Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-09-13;10:13:00;VIA CURTATONE;7;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-09-13;14:57:00;ROTATORIA CADELLO/IS MIRRIONIS;sn;;Incidente stradale senza feriti;Frontale / laterale;2;0;2;0;0;0;0
+2014-09-14;05:33:00;VIALE POETTO;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;0;1;0;0;0;0
+2014-09-14;09:03:00;VIA DEI VISCONTI;sn;VIA GIUD. MARIANO;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-09-14;23:10:00;VIALE MONASTIR;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;0;1;0;0;0;0
+2014-09-15;10:49:00;VIA LIGURIA;46;VIA UMBRIA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-09-15;18:45:00;PIAZZA CASTELLANI;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-09-16;08:45:00;VIA DEI PUNICI;sn;VIA IS MAGLIAS;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-09-16;12:26:00;PIAZZA REPUBBLICA;sn;VIA DELEDDA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-09-16;13:21:00;VIA S.GIOVANNI;359;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-09-16;17:13:00;VIA PORCELL;sn;;Danneggiamento;Ramo su auto;1;1;0;0;0;0;0
+2014-09-16;18:05:00;S.S. 131;KM 6.00;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-09-16;18:56:00;VIALE MONASTIR;196;;Incidente stradale senza feriti;Urto anteriore;2;2;0;0;0;0;0
+2014-09-16;19:19:00;VIALE GUGLIELMO MARCONI;sn;;Incidente stradale senza feriti;Tamponamento;3;1;2;0;0;0;0
+2014-09-17;12:07:00;PIAZZA AMENDOLA;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-09-17;17:48:00;VIALE MONS. GIUSSANI;sn;VIALE BUONCAMMINO;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-09-18;13:44:00;VIA MONS. PIOVELLA;sn;VIA MONTEVECCHIO;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-09-19;12:33:00;VIA BERLINO;2;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-09-19;18:56:00;PIAZZA SAN BENEDETTO;1;;Incidente stradale con feriti;Investimento di pedone;1;2;0;0;1;0;0
+2014-09-19;21:48:00;PIAZZA AMSICORA;sn;;Incidente stradale con feriti;Caduta dal veicolo x Buca;1;1;0;1;0;0;0
+2014-09-20;01:04:00;VIALE MONASTIR;sn;VIA GHERARDO DELLE NOTTI;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-09-20;11:43:00;VIALE LA PLAIA;sn;VICO LA PLAIA;Incidente stradale con feriti;Frontale / laterale;2;1;1;0;1;0;0
+2014-09-20;18:34:00;VIA MEILOGU;sn;VIA VAL VENOSTA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-09-20;19:24:00;ROTATORIA STAMIRA/PERETTI;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-09-21;18:14:00;VIALE MONASTIR;sn;;Incidente stradale con feriti;Tamponamento;3;3;1;1;0;0;0
+2014-09-21;18:42:00;VIA MARTINI;14;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-09-21;21:50:00;VIA DEL FANGARIO;3;;Incidente stradale senza feriti;Immissione nel flusso della circolazione;2;1;1;0;0;0;0
+2014-09-22;12:05:00;VIA JENNER;sn;;Incidente stradale senza feriti;Tamponamento;3;0;3;0;0;0;0
+2014-09-22;16:49:00;S.S. 195;sn;;Incidente stradale senza feriti;Tamponamento;5;5;0;0;0;0;0
+2014-09-22;22:52:00;VIA MONTE SABOTINO;sn;VIA MAGLIAS;Incidente stradale con feriti;Frontale / laterale;2;2;1;1;2;0;0
+2014-09-23;08:08:00;PIAZZA SORCINELLI;sn;;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-09-23;08:24:00;VIALE S.AVENDRACE;155;;Incidente stradale con feriti;;1;0;1;0;1;0;0
+2014-09-23;09:55:00;VIA LOGUDORO;sn;;Danneggiamento;;0;1;0;0;0;0;0
+2014-09-23;11:00:00;VIA BAINSIZZA;sn;VIA VITTORIO VENETO;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-09-23;14:06:00;VIA S.MARIA CHIARA;sn;VIA S.QUINTINO;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-09-23;14:30:00;VIA RIVA VILLASANTA;sn;;Incidente stradale con feriti;Frontale / laterale;2;1;2;0;2;0;0
+2014-09-23;17:37:00;VIA CORNALIAS;sn;VIA MARONGIU ALDO;Danneggiamento;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-09-23;17:40:00;CORSO VITTORIO EMANUELE II;sn;VIA SASSARI;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-09-24;10:14:00;PIAZZA REPUBBLICA;sn;;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-09-24;15:46:00;LARGO CARLO FELICE;sn;VIA DEL MERCATO VECCHIO;Incidente stradale con feriti;Cambio di corsia;3;2;1;1;0;0;0
+2014-09-24;17:43:00;VIA GIUD.SSA BENEDETTA;sn;VIA DEI VISCONTI;Incidente stradale con feriti;Urto anteriore;2;2;0;1;0;0;0
+2014-09-24;20:03:00;VIA STAMPA;sn;VIA TORRICELLI;Incidente stradale con feriti;Tamponamento;3;2;1;1;0;0;0
+2014-09-25;09:24:00;VIA UNIVERSITA`;sn;;Danneggiamento;Urto con cassonetto;1;1;0;0;0;0;0
+2014-09-25;10:25:00;VIA DEL FANGARIO;25;;Incidente stradale senza feriti;Urto laterale;3;3;0;0;0;0;0
+2014-09-25;11:07:00;VIA LEOPARDI;15;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-09-25;16:24:00;VIALE LA PLAIA;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-09-25;17:25:00;VIA GIULIO II;sn;VIA SISTO V;Incidente stradale con feriti;Frontale / laterale;3;2;0;0;0;0;0
+2014-09-25;17:42:00;VIA GIUD. TORBENO;20;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-09-25;19:50:00;VIA DONIZETTI;s86/b;;Danneggiamento;Danneggiamento auto in sosta;1;0;1;0;0;0;0
+2014-09-26;04:05:00;S.S. 195;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-09-26;15:54:00;VIA POERIO;3;;Incidente stradale senza feriti;Urto con veicolo in sosta;4;1;0;0;0;0;0
+2014-09-26;21:09:00;VIALE EUROPA;sn;;Incidente stradale con feriti;Frontale / laterale;2;2;0;2;0;0;0
+2014-09-26;22:28:00;VIA ITALIA;40;;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-09-27;01:25:00;VIA OSPEDALE;sn;VIA S.GIORGIO;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-09-27;05:35:00;VIALE DIAZ;76;;Incidente stradale senza feriti;Uscita x sbandamento;1;0;1;0;0;0;0
+2014-09-27;10:44:00;VIA CANALIS;5;;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;0;1;0;0
+2014-09-27;19:22:00;VIA GARFAGNANA;sn;VIA LIGURIA;Incidente stradale senza feriti;Urto laterale;2;0;2;0;0;0;0
+2014-09-27;21:17:00;VIALE MONASTIR;sn;VIA DEL FANGARIO;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-09-28;11:56:00;VIA S.MARIA CHIARA;sn;VIA FILZI;Incidente stradale senza feriti;Immissione nel flusso della circolazione;2;2;0;0;0;0;0
+2014-09-28;21:03:00;PIAZZA ITALIA;sn;VIA ITALIA;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-09-29;13:50:00;VIA CORNALIAS;sn;;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-09-29;13:49:00;VIA SARPI;sn;VIA MACHIAVELLI;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-09-29;16:08:00;LUNGOMARE POETTO;sn;VIA MONTECRISTO;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-09-29;17:50:00;VIA CADELLO;sn;VIA MONS. COGONI;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-09-29;20:19:00;VIA PIEMONTE;sn;VIA LOMELLINA;Incidente stradale senza feriti;Immissione nel flusso della circolazione;2;2;0;0;0;0;0
+2014-09-29;21:24:00;VIA DANTE;sn;PIAZZA REPUBBLICA;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-09-30;09:31:00;VIA PASUBIO;sn;VIA COL DI LANA;Incidente stradale con feriti;Urto con veicolo in sosta;4;1;0;1;0;0;0
+2014-09-30;11:45:00;VIA CRISPI;1;;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;1;0;0;0
+2014-09-30;12:38:00;VIA COSTA;sn;VIA SALARIS;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-09-30;13:31:00;VIA MONS. PIOVELLA;4;;Incidente stradale con feriti;Immissione nel flusso della circolazione;3;1;1;0;1;0;0
+2014-09-30;16:30:00;VIALE BUONCAMMINO;sn;;Incidente stradale con feriti;Tamponamento;4;5;0;2;0;0;0
+2014-09-30;18:18:00;VIA PISANO;sn;;Incidente stradale con feriti;Caduta dal veicolo x imperizia;1;1;0;1;0;0;0
+2014-09-30;19:32:00;VIA QUIRRA;18;VIA BUGGERRU;Incidente stradale con feriti;Caduta dal veicolo x imperizia;0;1;0;0;0;1;0
+2014-10-01;10:32:00;VIA ADAMELLO;14;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-10-01;12:58:00;VIA S.GILLA;19A;;Incidente stradale senza feriti;Immissione nel flusso della circolazione;2;1;1;0;0;0;0
+2014-10-01;14:02:00;VIA DEL MERCATO VECCHIO;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-10-02;01:26:00;VIA S.BENEDETTO;sn;VIA BOITO;Incidente stradale con feriti;Frontale / laterale;2;2;2;3;0;0;0
+2014-10-02;09:18:00;PIAZZA DEL CARMINE;1;;Danneggiamento;Caduta dal veicolo x Gasolio sul manto stradale;1;1;0;0;0;0;0
+2014-10-02;17:51:00;VIA LEGNANO;sn;VIA FRATELLI BANDIERA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-10-02;19:27:00;VIALE ELMAS;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-02;21:50:00;VIA PIAVE;sn;VIALE S.AVENDRACE;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-03;09:41:00;VIA DANTE;133;;Incidente stradale con feriti;Apertura portiera;2;2;1;1;0;0;0
+2014-10-03;09:57:00;VIA PETRARCA;sn;VIA DANTE;Incidente stradale con feriti;Tamponamento;2;2;1;1;0;0;0
+2014-10-03;11:37:00;CORSO VITTORIO EMANUELE II;43;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-10-03;13:00:00;VIA DELEDDA;45;;Danneggiamento;Caduta dal veicolo x Gasolio sul manto stradale;1;1;0;0;0;0;0
+2014-10-03;14:10:00;VIALE TRIESTE;sn;VICO TRIESTE;Incidente stradale con feriti;Investimento di pedone;1;2;0;0;1;0;0
+2014-10-03;18:13:00;VIA PIAVE;11;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-04;18:21:00;VIALE MERELLO;sn;VIA VITTORIO VENETO;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;0;1;0;0;0;0
+2014-10-04;19:05:00;VIA S.GIOVANNI;0;VIA SULIS;Incidente stradale per caduta di pedone;;1;0;0;0;0;0;0
+2014-10-04;19:25:00;VIA S.GIOVANNI;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-10-04;19:57:00;VIA SPANO;sn;;Incidente stradale con feriti;;1;0;0;0;0;0;0
+2014-10-04;20:31:00;VICO S.GIOVANNI;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;0;1;0;0;0;0
+2014-10-04;23:36:00;VIA VIDAL;2;;Incidente stradale con feriti;Uscita x sbandamento;1;1;1;2;0;0;0
+2014-10-05;01:45:00;S.S. EX 131;KM. 4,400;;Incidente stradale senza feriti;Urto anteriore;2;2;0;0;0;0;0
+2014-10-05;03:01:00;S.S. EX 131;km.3,500;;Incidente stradale con feriti;Uscita x sbandamento;1;2;1;1;0;2;0
+2014-10-05;10:00:00;ASSE MEDIANO DI SCORRIMENTO;KM.5,6;;Incidente stradale con feriti;Caduta dal veicolo x imperizia;1;1;0;1;0;0;0
+2014-10-05;12:09:00;VIA DEI GENOVESI;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-10-05;13:19:00;VIA MAZZINI;12;;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;0;0;0;0
+2014-10-06;07:52:00;PIAZZA REPUBBLICA;sn;GIANTURCO;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-10-06;08:41:00;VIA CORNALIAS;sn;VIA BARONIA;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-10-06;13:25:00;PIAZZA FALCHI;1;;Danneggiamento;Cornicione su auto;1;0;0;0;0;0;0
+2014-10-06;14:09:00;VIA S.AGOSTINO;sn;PORTO MOLO S.AGOSTINO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-06;14:48:00;ROTATORIA CADELLO/SANTA MARIA CHIARA;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-06;16:34:00;ROTATORIA CADELLO/IS MIRRIONIS;sn;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-10-06;21:56:00;VIA ISCHIA;sn;;Incidente stradale con feriti;Frontale / laterale;2;2;1;1;0;0;0
+2014-10-07;15:40:00;VIA PO;47;;Incidente stradale senza feriti;Tamponamento;3;2;1;1;0;0;0
+2014-10-07;16:35:00;VIALE POETTO;sn;VIA VERGINE DI LLUC;Incidente stradale senza feriti;Frontale / laterale;3;2;1;1;0;0;0
+2014-10-07;17:27:00;VIA ITALIA;sn;VIA CARLO EMANUELE III;Incidente stradale con feriti;Tamponamento;3;2;2;2;0;0;0
+2014-10-07;18:21:00;ASSE MEDIANO DI SCORRIMENTO;KM. 7,100;;Incidente stradale con feriti;Tamponamento;3;3;0;2;0;0;0
+2014-10-07;18:52:00;VIA PUGLIA;12;;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-10-07;19:43:00;VIALE POETTO;sn;VIA TRAMONTANA;Incidente stradale con feriti;Semaforo rosso;2;0;2;1;0;0;0
+2014-10-08;09:31:00;VIALE MONASTIR;sn;VIA GHERARDO DELLE NOTTI;Incidente stradale con feriti;Tamponamento;2;1;2;1;0;0;0
+2014-10-08;10:56:00;VIA CADELLO;sn;VIA DEL SEMINARIO;Incidente stradale con feriti;Tamponamento;3;1;2;1;0;0;0
+2014-10-08;12:15:00;VIA PETRARCA;sn;VIA PERGOLESI;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-08;12:48:00;PIAZZA GIOVANNI XXIII;sn;VIA XXVIII FEBBRAIO;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-10-08;13:54:00;VIA MERCALLI;sn;;Incidente stradale senza feriti;Tamponamento;3;2;1;0;0;0;0
+2014-10-08;15:13:00;VIA RIVA VILLASANTA;85;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-10-09;10:07:00;VIA FRATELLI BANDIERA;sn;VIA PEPE;Incidente stradale con feriti;Frontale / laterale;2;1;1;2;0;0;0
+2014-10-09;17:52:00;VIA ROMA;91;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-10-09;18:22:00;VIA STAMPA;sn;VIA CHIABRERA;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-10-09;19:22:00;VIA S.MARIA CHIARA;50;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-10;06:57:00;VIA SONNINO;sn;VIA CARBONIA;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-10-10;07:30:00;VIA ROMA;sn;VIA BAYLLE;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-10-10;09:51:00;VIALE GUGLIELMO MARCONI;sn;ROTATORIA IS PONTIS PARIS;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-10;21:24:00;VIA ITALIA;sn;VIA CONTE ROSSO;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-10-11;01:07:00;ASSE MEDIANO DI SCORRIMENTO;KM. 4,400;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-10-11;08:08:00;VIALE S.AVENDRACE;285;;Incidente stradale senza feriti;Urto con veicolo in sosta;4;1;0;0;0;0;0
+2014-10-11;12:42:00;VIA S.PAOLO;sn;;Danneggiamento;Caduta dal veicolo x imperizia;1;1;0;1;0;0;0
+2014-10-11;14:55:00;VIA CUGIA;sn;VIA SCANO;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-10-11;16:51:00;LARGO CARLO FELICE;sn;VIA CRISPI;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;1;0;0;0
+2014-10-11;18:23:00;PIAZZA MAGLIAS;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-11;18:47:00;VIA CUGIA;sn;VIA PALOMBA;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-10-12;03:46:00;VIA CAMPANIA;18;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-12;08:02:00;VIA MAMELI;76;;Incidente stradale senza feriti;Urto con veicolo in sosta;6;1;0;0;0;0;0
+2014-10-12;10:46:00;VIALE DIAZ;sn;;Danneggiamento;Ramo su auto;1;1;0;0;0;0;0
+2014-10-12;17:28:00;VIA ITALIA;140;;Incidente stradale con feriti;Tamponamento;3;3;2;4;0;0;0
+2014-10-12;22:43:00;VIA DELLA PINETA;sn;VIA LUCCA;Danneggiamento;Cornicione su auto;1;0;0;0;0;0;0
+2014-10-13;08:56:00;VIALE DIAZ;sn;VIA DELLO SPORT;Danneggiamento;Danneggiamento auto in sosta;1;1;0;0;0;0;0
+2014-10-13;14:05:00;VIA CASTIGLIONE;sn;VIA SERRA IGNAZIO;Incidente stradale con feriti;Frontale / laterale;3;3;1;0;2;0;0
+2014-10-13;18:16:00;VIA IS MIRRIONIS;sn;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-10-13;18:18:00;VIA DANTE;120;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-13;21:45:00;CORSO VITTORIO EMANUELE II;4;;Incidente stradale senza feriti;Manovra di retromarcia;2;2;0;0;0;0;0
+2014-10-14;01:05:00;VIALE GUGLIELMO MARCONI;sn;VIA SARPI;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-10-14;14:27:00;VIALE POETTO;21;;Danneggiamento;Urto laterale;1;1;0;0;0;0;0
+2014-10-14;18:07:00;VIA DEI CIGNI;61;;Danneggiamento;Danneggiamento auto in sosta;1;1;0;0;0;0;0
+2014-10-15;08:55:00;VIALE LA PLAIA;sn;;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-10-15;11:22:00;VIA DELEDDA;19;;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-10-15;11:48:00;VIA S.CARLO BORROMEO;sn;VIA CIUSA;Incidente stradale con feriti;Frontale / laterale;2;1;2;2;1;0;0
+2014-10-15;12:01:00;VIA CIUSA;81;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-15;15:30:00;VIA S.MARGHERITA;88;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-10-15;16:55:00;VIA S.MARIA CHIARA;122;;Incidente stradale con feriti;Apertura portiera;2;2;0;0;1;0;0
+2014-10-16;00:26:00;VIA BARONIA;sn;;Danneggiamento;Ramo su auto;2;0;0;0;0;0;0
+2014-10-16;11:08:00;LARGO CARLO FELICE;sn;VICO CARLO FELICE;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-10-16;15:02:00;VIA CASTIGLIONE;sn;VIA GIUSTI;Incidente stradale con feriti;Frontale / laterale;3;0;2;0;0;0;0
+2014-10-16;16:42:00;VIA DANTE;sn;VIA CERVI;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-10-17;08:34:00;VIA TIEPOLO;sn;VIA SINI;Incidente stradale con feriti;Frontale / laterale;2;2;1;1;0;0;0
+2014-10-17;12:35:00;LOC. GIORGINO;sn;;Incidente stradale con feriti;Uscita x sbandamento;1;0;1;1;0;0;0
+2014-10-17;14:08:00;VIA SCANO;sn;VIA CONTINI;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-10-17;19:46:00;VIA DEI TRITONI;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;0;1;0;0;0;0
+2014-10-18;03:39:00;VIA PIERO DELLA FRANCESCA;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-10-18;09:54:00;VIA BUGGERRU;sn;VIA FONTANA RAMINOSA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-18;09:49:00;VIA MAMELI;sn;VIA MADDALENA;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-10-18;13:39:00;VIA LUCCA;sn;VIA DELLA PINETA;Incidente stradale con feriti;Precedenza;2;0;2;1;0;0;0
+2014-10-18;16:32:00;VIALE DIAZ;sn;VIA CABOTO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-19;01:43:00;VIA ANFITEATRO;sn;VIA OSPEDALE;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-10-19;07:08:00;VIA BUGGERRU;sn;VIA CIOCIARIA;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;1;0;0
+2014-10-19;11:37:00;VIA BACAREDDA;sn;VIA COCCO ORTU;Incidente stradale con feriti;Urto con veicolo in sosta;3;1;0;1;0;0;0
+2014-10-20;10:16:00;VIA BACAREDDA;136;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-10-20;13:11:00;VIALE ELMAS;sn;VIA DELLA NAUTICA;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-10-20;17:41:00;S.S. 195;KM. 7,100;;Incidente stradale con feriti;Tamponamento;3;4;1;3;1;0;0
+2014-10-21;10:05:00;VIA SONNINO;24;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-10-21;18:37:00;VIALE MONASTIR;sn;VIA DEL FANGARIO;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-10-22;00:20:00;VIA S.ALENIXEDDA;57;;Danneggiamento;Danneggiamento auto in sosta;0;0;0;0;0;0;0
+2014-10-22;08:20:00;VIA CONVERSI;sn;VIA OBLATI;Danneggiamento;Ramo su auto;1;0;0;0;0;0;0
+2014-10-22;10:42:00;VIALE MONS. GIUSSANI;sn;VIA NICOLODI;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-22;11:56:00;LARGO CARLO FELICE;13b;;Danneggiamento;Semaforo rosso;1;0;0;0;0;0;0
+2014-10-22;12:13:00;VIA DEL FANGARIO;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-22;19:12:00;VIA TRENTINO;sn;;Danneggiamento;Urto con cassonetto;1;0;0;0;0;0;0
+2014-10-23;08:50:00;VIA FALLETTI;sn;VIA CADELLO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-23;09:17:00;VIA TUVERI;sn;VIA PUCCINI;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-23;09:41:00;VIALE COLOMBO;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-23;15:06:00;S.S. 195;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-23;16:25:00;VIA DANTE;2;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-10-23;18:41:00;VIA DELL` ABBAZIA;33;;Incidente stradale con feriti;Tamponamento;2;2;1;2;0;0;0
+2014-10-23;20:07:00;VIA CAPRERA;11;;Incidente stradale senza feriti;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-10-24;01:33:00;VIALE MONASTIR;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-10-24;10:33:00;VIA TIEPOLO;sn;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-10-24;13:30:00;VIA IS MIRRIONIS;sn;VIA LA NURRA;Incidente stradale con feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-10-24;15:52:00;0 S.S. 195 RAC ( EX CASIC);sn;;Incidente stradale con feriti;Caduta dal veicolo x imperizia;1;1;0;1;0;0;0
+2014-10-25;00:13:00;VIA SONNINO;sn;VIA GALLURA;Incidente stradale con feriti;Frontale / laterale;2;2;1;2;0;0;0
+2014-10-25;15:49:00;VIA CABRAS;sn;VIA LOY;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-10-25;17:09:00;ROTATORIA STAMIRA/PERETTI;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-25;21:05:00;VIALE GUGLIELMO MARCONI;sn;VIA VIENNA;Incidente stradale senza feriti;Frontale / laterale;2;0;2;0;0;0;0
+2014-10-25;22:01:00;VIALE GUGLIELMO MARCONI;sn;VIA CAVARO;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-10-26;11:17:00;VIA MILANO;99;;Incidente stradale senza feriti;Urto con veicolo in sosta;3;1;0;0;0;0;0
+2014-10-26;14:54:00;VIA AOSTA;sn;VIA ASTI;Incidente stradale senza feriti;Apertura portiera;2;2;0;0;0;0;0
+2014-10-26;18:25:00;VIA ROMA;sn;VIA MADDALENA;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-10-27;09:17:00;VIALE DIAZ;sn;;Incidente stradale senza feriti;Tamponamento;2;0;2;0;0;0;0
+2014-10-27;09:57:00;VIA PUGLIA;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-10-27;10:45:00;VIALE EUROPA;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-10-27;10:56:00;VIA SERBARIU;sn;VIA BAUDI DI VESME;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-10-27;12:33:00;VIA IS MIRRIONIS;sn;VIA GOITO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-27;16:19:00;VIALE COLOMBO;sn;VIA CABOTO;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-10-27;16:21:00;VIA LUNIGIANA;11;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-27;19:22:00;VIA TIMAVO;sn;VIA IS MIRRIONIS;Incidente stradale senza feriti;Precedenza;2;1;1;0;0;0;0
+2014-10-28;09:24:00;ROTATORIA STAMIRA/PERETTI;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-28;09:27:00;VIALE MONASTIR;216;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-28;10:03:00;VIA PUGLIA;sn;;Incidente stradale senza feriti;Urto laterale;3;2;1;0;0;0;0
+2014-10-28;11:00:00;VIA RIVA VILLASANTA;65;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;0;1;0;0
+2014-10-28;17:31:00;VIALE BUONCAMMINO;sn;;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-10-28;19:50:00;VIA DEI GIUDICATI;sn;VIA CIUSA;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-10-29;08:07:00;VIA MAMELI;68;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-10-29;08:08:00;VIA DANTE;sn;VIA LOGUDORO;Incidente stradale con feriti;Frontale / laterale;2;2;3;5;0;0;0
+2014-10-29;12:54:00;VIALE LA PLAIA;46;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-29;17:17:00;ROTATORIA CADELLO/IS MIRRIONIS;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-29;21:12:00;VIA DONIZETTI;58;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-10-30;17:35:00;VIA CADELLO;sn;VIA CORNALIAS;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;1;0
+2014-10-31;00:37:00;VIALE MONASTIR;sn;VIA PUGLIA;Incidente stradale con feriti;Urto anteriore;2;3;3;3;3;0;0
+2014-10-31;07:17:00;VIA CADELLO;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-10-31;09:39:00;VIA CORNALIAS;sn;VIA SULCIS;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-10-31;10:58:00;VIA ROMA;sn;PIAZZA MATTEOTTI;Incidente stradale con feriti;Tamponamento;3;3;0;1;0;0;0
+2014-10-31;18:40:00;VIA LAZIO;sn;VIA MOLISE;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;1;0;0;0;0;0
+2014-10-31;19:31:00;ASSE MEDIANO DI SCORRIMENTO;sn;PONTE VITTORIO;Incidente stradale con feriti;Tamponamento;2;1;2;1;0;0;0
+2014-10-31;20:24:00;VIA AZUNI;sn;PIAZZA YENNE;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-11-01;12:10:00;PIAZZA CASTELLANI;sn;VIA MONFERRATO;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-11-01;18:47:00;VIA FARINA;sn;VIA SATTA;Incidente stradale con feriti;Frontale / laterale;2;1;2;1;0;0;0
+2014-11-01;21:34:00;VIA CAMPANIA;13;;Incidente stradale senza feriti;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-11-02;01:57:00;VIA SAN BENEDETTO;sn;VIA PERGOLESI;Incidente stradale con feriti;Frontale / laterale;2;1;3;4;0;0;0
+2014-11-02;06:31:00;VIA CAMPO SCIPIONE;sn;VIA S.GILLA;Incidente stradale senza feriti;Caduta dal veicolo x Gasolio sul manto stradale;1;1;0;0;0;0;0
+2014-11-02;11:35:00;VIA PORCELL;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-11-02;15:38:00;PIAZZA INDIPENDENZA (PORTICO SEZIATE);sn;VIA CANELLES;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-11-02;17:17:00;ROTATORIA CADELLO/IS MIRRIONIS;sn;;Incidente stradale senza feriti;Cambio di corsia;2;2;0;0;0;0;0
+2014-11-03;11:26:00;VIA CORSICA;sn;VIA CURIE;Incidente stradale con feriti;Frontale / laterale;2;1;2;2;0;0;0
+2014-11-03;13:48:00;VIALE MERELLO;sn;VIA OSLAVIA;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-11-03;15:28:00;PIAZZA ITALIA;sn;VIA BALILLA;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-11-03;17:57:00;VIALE TRIESTE;90;;Incidente stradale con feriti;Investimento di pedone;1;2;0;0;1;0;0
+2014-11-04;13:00:00;VIA LIGURIA;sn;;Incidente stradale con feriti;Apertura portiera;2;1;1;1;0;0;0
+2014-11-05;09:35:00;VIA FONSECA;sn;VIA FILZI;Incidente stradale con feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-11-05;14:00:00;VIA IS MAGLIAS;176;;Incidente stradale senza feriti;Manovra di retromarcia;2;2;0;0;0;0;0
+2014-11-05;19:47:00;VIALE TRIESTE;65;;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-11-06;07:42:00;VIA IS MAGLIAS;sn;VIA HERMADA;Incidente stradale con feriti;Frontale / laterale;2;2;0;2;0;0;0
+2014-11-06;12:34:00;ASSE MEDIANO DI SCORRIMENTO;sn;VIA VALENZANI;Incidente stradale senza feriti;Tamponamento;3;2;1;0;0;0;0
+2014-11-06;16:16:00;VIALE COLOMBO;sn;;Danneggiamento;Ramo su auto;1;1;0;0;0;0;0
+2014-11-07;09:25:00;VIA TUVERI;sn;VIA PUCCINI;Incidente stradale senza feriti;Investimento di pedone;1;2;0;0;0;0;0
+2014-11-07;10:39:00;ROTATORIA IS PONTIS PARIS;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-11-07;17:51:00;VIA PO;sn;;Incidente stradale senza feriti;Tamponamento;3;1;1;0;0;0;0
+2014-11-08;15:24:00;VIA CIUSA;sn;VIA ROMAGNA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-11-08;23:55:00;VIALE DIAZ;sn;VIA STAZIONE VECCHIA;Incidente stradale con feriti;Semaforo rosso;3;1;3;4;0;0;0
+2014-11-09;05:37:00;VIALE BUONCAMMINO;sn;VIA NICOLODI;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-11-09;05:48:00;VIA S.MARIA CHIARA;sn;VIA DEI TIGLI;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-11-09;09:32:00;VIA DOLCETTA;1;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-11-09;11:07:00;VIALE MONASTIR;KM.4,500;;Incidente stradale con feriti;Frontale / laterale;2;1;1;0;1;0;0
+2014-11-10;04:03:00;VIA DEL FANGARIO;sn;;Incidente stradale con feriti;Uscita x sbandamento;1;1;0;0;1;0;0
+2014-11-10;10:57:00;VIA ROMA;sn;SCALETTE S.MARGHERITA;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-11-10;12:28:00;CORSO VITTORIO EMANUELE II;sn;VIA SASSARI;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-11-10;13:40:00;VIA IS MIRRIONIS;173;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-11-10;14:41:00;VIA S.MARIA CHIARA;144;;Incidente stradale con feriti;Urto anteriore;4;2;0;1;0;0;0
+2014-08-12;03:06:00;VIA BANDELLO;sn;VIA BEMBO;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-08-12;09:48:00;VIA CADELLO;sn;VIA IS MIRRIONIS;Incidente stradale senza feriti;Urto laterale;2;0;2;0;0;0;0
+2014-08-12;13:01:00;VIA ITALIA;sn;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-08-12;18:04:00;VIALE GUGLIELMO MARCONI;191;;Incidente stradale senza feriti;Inversione di marcia;2;1;1;0;0;0;0
+2014-08-12;19:15:00;VIALE S.AVENDRACE;214;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-08-13;20:34:00;ROTATORIA CADELLO/SANTA MARIA CHIARA;sn;;Incidente stradale senza feriti;Urto laterale;2;0;2;0;0;0;0
+2014-08-14;02:01:00;ASSE MEDIANO DI SCORRIMENTO;KM. 8,700;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-08-14;08:23:00;INT. MERCATO S.BENEDETTO;sn;;Incidente stradale per caduta di pedone;Caduta di Pedone accidentale;0;0;1;1;0;0;0
+2014-08-14;08:55:00;VIA TRAMONTANA;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-08-14;10:10:00;VIALE TRIESTE;sn;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-08-14;12:24:00;VIA POLA;12;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-08-14;14:10:00;S.S. 195 RAC ( EX CASIC);sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-08-15;12:05:00;VIA RIVA VILLASANTA;187;VIA BELLAVISTA;Incidente stradale con feriti;Precedenza;2;2;0;1;0;0;0
+2014-08-15;18:41:00;VIA LUNGO SALINE;31;;Danneggiamento;Ramo su auto;1;1;0;0;0;0;0
+2014-08-15;20:10:00;VIA MARENGO;sn;PIAZZA D`ARMI;Incidente stradale con feriti;Frontale / laterale;2;1;2;1;0;0;0
+2014-08-16;05:23:00;VIALE MERELLO;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-08-16;11:40:00;VIA BACAREDDA;sn;VIA CAO DI S.MARCO;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-08-17;09:59:00;VIA SCHIAVAZZI;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;0;1;1;0;0;0
+2014-08-18;09:43:00;VIA ITALIA;42;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-08-18;15:37:00;VIA CURIE;sn;VIA CORSICA;Incidente stradale con feriti;Precedenza;3;2;1;3;0;0;0
+2014-08-18;17:26:00;VIA CALAMOSCA;33;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-08-19;18:53:00;VIA CASTAGNE VIZZA;sn;;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-08-20;09:50:00;VIA SASSARI;81;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-08-21;08:42:00;VIA S.GIOVANNI;sn;VIA S.GIACOMO;Danneggiamento;Urto con cassonetto;2;0;0;0;0;0;0
+2014-08-21;09:29:00;VIA CARBONI BOI;sn;VIA SANNA RANDACCIO;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-08-21;21:02:00;VIALE BUONCAMMINO;sn;;Incidente stradale senza feriti;Manovra di retromarcia;2;2;0;0;0;0;0
+2014-08-22;09:09:00;PIAZZA COSTITUZIONE;sn;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-08-22;09:37:00;ASSE MEDIANO DI SCORRIMENTO;KM. 3,200;;Incidente stradale senza feriti;Tamponamento;4;2;3;2;0;0;0
+2014-08-22;09:27:00;PIAZZA DEL CARMINE;5;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-08-22;10:04:00;VIA DEGLI ASTRI;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-08-22;11:55:00;VIA VESALIO;22;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-08-22;17:20:00;VIA VALENZANI;19;;Incidente stradale con feriti;Urto laterale;2;1;1;0;0;1;0
+2014-08-22;18:15:00;VIALE S.AVENDRACE;217;;Incidente stradale con feriti;Tamponamento;3;3;0;1;0;0;0
+2014-08-23;10:28:00;VIA SPANO;sn;;Danneggiamento;Caduta dal veicolo x Gasolio sul manto stradale;1;1;0;1;0;0;0
+2014-08-23;12:32:00;VIALE DIAZ;166;;Incidente stradale con feriti;Tamponamento;2;2;1;1;0;0;0
+2014-08-23;21:06:00;VIA VESPUCCI;sn;;Danneggiamento;Cornicione su auto;1;1;0;0;0;0;0
+2014-08-24;10:30:00;VIA GALVANI;sn;VIA ANDORRA;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-08-24;19:46:00;PIAZZA S.BARTOLOMEO;sn;;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-08-24;21:10:00;VIA SERBARIU;sn;VIA BAUDI DI VESME;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-08-25;10:04:00;VIA LUNIGIANA;sn;VIALE MONASTIR;Incidente stradale con feriti;Urto laterale;2;2;0;0;1;0;0
+2014-08-25;11:19:00;VIA CADELLO;sn;VIA CAMPANIA;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-08-25;15:48:00;VIA GUTTUSO;sn;VIA BOCCIONI;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-08-25;19:18:00;VIA CUGIA;25;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-08-26;10:59:00;VIA DELLA PINETA;209;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-08-26;12:56:00;VIA QUIRRA;sn;;Incidente stradale senza feriti;Manovra di retromarcia;2;1;1;0;0;0;0
+2014-08-26;21:10:00;VIA CURIE;2;;Incidente stradale con feriti;Immissione nel flusso della circolazione;2;2;0;1;0;0;0
+2014-08-26;22:28:00;VIA DANTE;sn;VIA DE GIOANNIS;Incidente stradale con feriti;Frontale / laterale;2;1;1;2;0;0;0
+2014-08-27;13:06:00;VIALE ELMAS;sn;VIA DELL`  ARTIGIANATO;Incidente stradale con feriti;Precedenza;2;2;0;1;0;0;0
+2014-08-27;19:34:00;VIALE COLOMBO;26;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-08-28;02:48:00;0 S.S. 195 RAC ( EX CASIC);KM. 1,300;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-08-28;10:36:00;VIA CADELLO;sn;VIA FALLETTI;Incidente stradale con feriti;Urto laterale;2;1;1;1;0;0;0
+2014-08-28;17:27:00;LARGO CARLO FELICE;34;;Incidente stradale senza feriti;Manovra di retromarcia;2;2;0;0;0;0;0
+2014-08-28;19:34:00;VIALE S.BARTOLOMEO;sn;VIALE S.ELIA;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-08-29;09:27:00;VIA CAPULA;sn;VIA GALASSI;Incidente stradale senza feriti;Manovra di retromarcia;2;1;1;0;0;0;0
+2014-08-29;10:18:00;VIA CORNALIAS;sn;VIA CINQUINI;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-08-29;12:34:00;VIA RIVA DI PONENTE;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-08-29;16:05:00;VIA BORGO S.ELIA;sn;PIAZZA MARIA CALLAS;Incidente stradale con feriti;Uscita x sbandamento;1;0;1;0;0;1;0
+2014-08-29;16:59:00;VIALE COLOMBO;sn;;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-08-29;17:42:00;PIAZZA GALILEI;13;;Incidente stradale senza feriti;Manovra di retromarcia;2;2;0;0;0;0;0
+2014-08-29;20:36:00;VIALE REG. MARGHERITA;sn;;Incidente stradale con feriti;Caduta dal veicolo x imperizia;1;1;0;1;0;0;0
+2014-08-30;08:56:00;VIA ROMA;sn;VIA NAPOLI;Incidente stradale per caduta di pedone;Caduta dal veicolo x Gasolio sul manto stradale;0;1;0;1;0;0;0
+2014-08-30;11:47:00;S.S. 131 DIR.;sn;VIA LIGAS ALFONSO;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-08-30;21:07:00;VIALE S.AVENDRACE;70;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-11-10;15:55:00;VIALE TRIESTE;sn;VIA BATTISTI;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-11-10;17:31:00;VIALE COLOMBO;sn;VIA CABOTO;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-11-11;11:02:00;VIA BERLINO;1;;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-11-11;20:28:00;VIALE ELMAS;sn;VIA DELL`AGRICOLTURA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-11-12;11:30:00;PIAZZA MICHELANGELO;sn;VIA PASCOLI;Incidente stradale senza feriti;Investimento di pedone;1;0;2;0;0;0;0
+2014-11-12;17:21:00;VIA ROMA;sn;;Incidente stradale con feriti;Danneggiamenti x Buca sulla sede stradale;1;1;1;1;0;0;0
+2014-11-12;20:47:00;VIA DELLE GINESTRE;sn;VIA DELLE AGAVI;Incidente stradale senza feriti;Frontale / laterale;5;3;0;0;0;0;0
+2014-11-13;08:57:00;VIA ROMA (LUNGOMARE);sn;;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-11-13;11:24:00;VIA CURIE;sn;VIA GUADAZZONIS;Incidente stradale con feriti;Investimento di pedone;1;0;2;1;0;0;0
+2014-11-13;12:27:00;VIA ROMA;sn;LARGO CARLO FELICE;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-11-13;18:04:00;0 S.S. 195 RAC ( EX CASIC);sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-11-13;20:13:00;VIA LIGURIA;sn;;Incidente stradale senza feriti;Apertura portiera;2;1;1;0;0;0;0
+2014-11-14;13:31:00;VIA VESALIO;sn;;Incidente stradale senza feriti;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-11-14;14:43:00;VIA VESALIO;sn;;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-11-14;15:27:00;VIA ROMA (LUNGOMARE);sn;;Incidente stradale con feriti;Tamponamento;2;1;1;0;0;0;0
+2014-11-15;00:09:00;LUNGOMARE POETTO;sn;VIA ISCHIA;Incidente stradale con feriti;Inversione di marcia;2;2;1;2;0;0;0
+2014-11-15;20:52:00;VIA SCHIAVAZZI;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-11-16;17:54:00;VIA VALENZANI;sn;;Incidente stradale con feriti;;1;0;1;1;0;0;0
+2014-11-16;20:12:00;VIA TRINCEA D. FRASCHE;sn;VIA TRINCEA D. RAZZI;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-11-17;11:16:00;VIALE MONASTIR;161;;Incidente stradale con feriti;Urto laterale;3;2;0;1;0;0;0
+2014-11-17;14:03:00;VIA STAMIRA;sn;;Incidente stradale con feriti;Tamponamento;4;3;1;1;0;0;0
+2014-11-17;17:29:00;VIA DANTE;sn;VIA TOLA;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-11-17;18:08:00;S.S. 131 DIR.;sn;;Incidente stradale senza feriti;Tamponamento;5;3;2;0;0;0;0
+2014-11-17;18:53:00;VIALE MONASTIR;sn;;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-11-17;20:55:00;VIA MONS. PIOVELLA;9;;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-11-18;08:48:00;VIA MARGHINE;1;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-11-18;09:44:00;VIALE LA PLAIA;18;;Incidente stradale con feriti;Tamponamento;3;4;1;2;0;0;0
+2014-11-18;11:47:00;VIA GUADAZZONIS;sn;VIA CURIE;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-11-18;11:17:00;VIA VALEGGIO;15;;Incidente stradale per caduta di pedone;Caduta di pedone x buca;0;1;0;0;0;0;0
+2014-11-18;12:52:00;VIA DANTE;126;;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;0;1;0
+2014-11-18;18:20:00;VIALE MERELLO;sn;VIA DE MAGISTRIS;Danneggiamento;Danneggiamento auto in sosta;2;0;0;0;0;0;0
+2014-11-18;20:33:00;VIALE MONASTIR;122;;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-11-18;20:12:00;VIA DEL FANGARIO;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-11-18;22:28:00;CORSO VITTORIO EMANUELE II;sn;VIA SASSARI;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-11-19;09:16:00;VIA VESALIO;sn;VIA TURR;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-11-19;10:16:00;VIA MENTANA;52;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-11-19;10:05:00;PIAZZA YENNE;sn;VIA AZUNI;Incidente stradale senza feriti;Investimento di pedone;1;2;0;0;0;0;0
+2014-11-19;11:42:00;VIALE TRIESTE;sn;VIA POLA;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-11-19;13:32:00;VIA VESALIO;sn;VIA TORRICELLI;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-11-20;08:22:00;PIAZZA D`ARMI;sn;VIALE S.VINCENZO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-11-20;08:30:00;VIA CADELLO;sn;VIA MONS. PIOVELLA;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-11-20;11:06:00;VIA CASTIGLIONE;68/70;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;1;0;0;0
+2014-11-20;16:31:00;VIA CASTIGLIONE;sn;VIA SARPI;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-11-20;18:59:00;VIA SCANO;sn;VIA CUGIA;Incidente stradale con feriti;Investimento di pedone;1;1;2;1;1;0;0
+2014-11-20;20:17:00;VIA CIUSA;sn;;Incidente stradale con feriti;Investimento di pedone;1;0;1;1;0;0;0
+2014-11-21;13:54:00;ASSE MEDIANO DI SCORRIMENTO;sn;PONTE VITTORIO;Incidente stradale con feriti;Tamponamento;4;2;2;2;1;0;0
+2014-11-21;17:38:00;VIA STAZIONE VECCHIA;sn;VIALE DIAZ;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-11-22;09:48:00;VIA MARONGIU ALDO;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-11-22;12:01:00;VIA FLAVIO GIOIA;14;;Incidente stradale con feriti;Frontale / laterale;2;3;0;2;0;0;0
+2014-11-22;22:02:00;VIA SCANO;sn;VIA CUGIA;Incidente stradale con feriti;Caduta dal veicolo x imperizia;2;2;0;1;0;0;0
+2014-11-23;11:32:00;PONTE SCAFFA;KM.2,200;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;1;0;0;0;0
+2014-11-23;12:03:00;VIA BACAREDDA;174;;Incidente stradale senza feriti;Tamponamento;3;2;1;0;0;0;0
+2014-11-23;18:11:00;VIA S.MICHELE;sn;VIA COL DI LANA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-11-24;11:48:00;VIA CIUSA;sn;;Incidente stradale senza feriti;Caduta dal veicolo x Gasolio sul manto stradale;1;1;0;0;0;0;0
+2014-11-24;13:50:00;VIA PESSINA;sn;VIA AMAT;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-11-24;13:46:00;ROTATORIA STAMIRA/PERETTI;sn;;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-11-25;11:24:00;PARCHEGGIO OSPEDALE BROTZU;sn;;Incidente stradale senza feriti;;2;2;0;0;0;0;0
+2014-11-25;12:32:00;VIA BELLINI;44;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-11-25;14:18:00;VIA S.MICHELE;sn;VIA MONTE GRAPPA;Incidente stradale senza feriti;Manovra di retromarcia;2;1;1;0;0;0;0
+2014-11-25;16:55:00;VIALE LA PLAIA;24;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-11-25;18:39:00;VIA RAVENNA;sn;;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-11-26;08:23:00;VIALE GUGLIELMO MARCONI;sn;;Incidente stradale con feriti;Cambio di corsia;2;1;1;1;0;0;0
+2014-11-26;08:18:00;VIA LIGURIA;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-11-26;09:40:00;VIA MADDALENA;sn;VIA ROMA;Incidente stradale senza feriti;Investimento di pedone;1;1;1;0;0;0;0
+2014-11-26;12:27:00;VIA TOTI;sn;;Incidente stradale con feriti;Precedenza;4;1;1;1;0;0;0
+2014-11-26;18:56:00;VIA GIARDINI;175;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;0;1;0;0;0;0
+2014-11-26;20:48:00;VIA SCANO;sn;VIA CONVERSI;Incidente stradale con feriti;Investimento di pedone;1;2;0;0;1;0;0
+2014-11-27;00:39:00;VIA BIANCAMANO;sn;VIA S.ISIDORO;Incidente stradale senza feriti;Frontale / laterale;3;2;0;0;0;0;0
+2014-11-27;08:20:00;VIA IS MAGLIAS;sn;VIA DEI PUNICI;Incidente stradale con feriti;Frontale / laterale;2;1;1;1;0;0;0
+2014-11-27;09:00:00;VIALE MERELLO;sn;VIA IS MAGLIAS;Incidente stradale senza feriti;Investimento di pedone;1;1;0;0;0;0;0
+2014-11-27;14:29:00;VIALE MONASTIR;sn;VIA DOLCETTA;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-11-27;15:06:00;PIAZZA MATTEOTTI;sn;;Incidente stradale con feriti;Investimento di pedone;1;2;0;0;1;0;0
+2014-11-27;15:58:00;VIA BACAREDDA;sn;VIA DEI GIUDICATI;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-11-28;11:06:00;VIA SOLMI;sn;VIA ZURITA;Incidente stradale con feriti;Frontale / laterale;5;3;0;1;0;0;0
+2014-11-28;10:50:00;VIA BACCELLI;3;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-11-28;18:19:00;VIALE S.AVENDRACE;271;;Incidente stradale senza feriti;;2;1;0;0;0;0;0
+2014-11-28;18:24:00;VIALE CIMITERO;sn;VIA LOGUDORO;Incidente stradale con feriti;Semaforo rosso;2;0;2;0;1;0;0
+2014-11-28;18:53:00;VIA QUIRRA;sn;VIA BRIANZA;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-11-28;20:13:00;ROTATORIA CADELLO/IS MIRRIONIS;sn;VIA IS MIRRIONIS;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-11-28;21:02:00;VIA LA VEGA;sn;VIA TOSCANA;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-11-29;05:58:00;ASSE MEDIANO DI SCORRIMENTO;sn;VIA VALENZANI;Incidente stradale con feriti;Uscita x sbandamento;1;1;0;1;0;0;0
+2014-11-29;11:06:00;PIAZZA GIOVANNI XXIII;17;;Incidente stradale con feriti;Inversione di marcia;2;2;0;0;1;0;0
+2014-11-30;09:31:00;LARGO CARLO FELICE;sn;VIA DEL MERCATO VECCHIO;Incidente stradale con feriti;Urto laterale;2;1;1;1;0;0;0
+2014-12-01;07:49:00;VIA DE GIOANNIS;13;;Incidente stradale con feriti;Immissione nel flusso della circolazione;2;1;1;1;0;0;0
+2014-12-01;10:12:00;VIALE MONASTIR;92;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-12-01;11:49:00;VIA VALENZANI;21;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-12-01;11:58:00;VIA PIERO DELLA FRANCESCA;sn;VIA PERETTI;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-12-01;13:49:00;VIA DELLE RANE;sn;VIA DEI GRILLI;Incidente stradale con feriti;Frontale / laterale;2;2;1;1;0;0;0
+2014-12-01;13:56:00;VIA CABONI;sn;;Incidente stradale senza feriti;Tamponamento;2;0;2;0;0;0;0
+2014-12-01;20:31:00;VIALE S.AVENDRACE;sn;VIA COGHINAS;Incidente stradale senza feriti;Svolta a sinistra irregolare;1;0;1;0;0;0;0
+2014-12-01;21:14:00;VIA BAUDI DI VESME;sn;VIA CAMPO PISANO;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-12-02;14:09:00;VIA DELLA PINETA;sn;VIA DEXART;Incidente stradale senza feriti;Apertura portiera;2;1;1;0;0;0;0
+2014-12-03;14:45:00;VIA JENNER;fr leclerc;;Incidente stradale senza feriti;Urto con veicolo in sosta;3;1;0;0;0;0;0
+2014-12-03;16:12:00;VIA FILIA;o;VIA CABONI;Incidente stradale senza feriti;Immissione nel flusso della circolazione;2;1;1;0;0;0;0
+2014-12-03;16:48:00;VIA CONVERSI;0;;Incidente stradale con feriti;Investimento di pedone;1;0;2;0;1;0;0
+2014-12-03;18:31:00;VIALE GUGLIELMO MARCONI;sn;ROTATORIA IS PONTIS PARIS;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-12-04;09:30:00;VIA ROMA;sn;LARGO CARLO FELICE;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-12-04;11:43:00;VIA S.MARIA CHIARA;sn;VIA CADELLO;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-12-04;14:46:00;VIA S.LUCIFERO;78;;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-12-04;18:52:00;VIALE GUGLIELMO MARCONI;sn;VIA CAVARO;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-12-04;20:31:00;VIALE CIMITERO;sn;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-12-04;23:11:00;VIA DELLE SPIGHE;sn;;Incidente stradale con feriti;Frontale / laterale;3;2;1;2;0;0;0
+2014-12-05;09:13:00;VIA VERDI;sn;VIA DONIZETTI;Incidente stradale con feriti;Frontale / laterale;2;1;2;3;0;0;0
+2014-12-05;10:13:00;VIA BALILLA;sn;VIA S.QUINTINO;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-12-05;13:39:00;VIA IS MIRRIONIS;133;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-12-06;01:08:00;VIA RIVA VILLASANTA;159;;Incidente stradale senza feriti;Uscita x sbandamento;1;0;1;0;0;0;0
+2014-12-06;09:08:00;VIA GALVANI;sn;;Incidente stradale con feriti;Semaforo rosso;2;2;0;1;0;0;0
+2014-12-06;11:29:00;S.S. 131;sn;;Incidente stradale senza feriti;Uscita x sbandamento;1;0;1;0;0;0;0
+2014-12-06;13:35:00;VIA MAGLIAS;sn;VIA DOBERDO;Incidente stradale senza feriti;Frontale / laterale;3;3;0;0;0;0;0
+2014-12-06;19:14:00;VIA CARBONI BOI;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-12-07;02:08:00;PIAZZA GIOVANNI XXIII;sn;VIA BOIARDO;Incidente stradale con feriti;Urto con veicolo in sosta;4;2;0;2;0;0;0
+2014-12-07;06:18:00;VIA ABRUZZI;10;;Incidente stradale con feriti;Uscita x sbandamento;1;3;0;3;0;0;0
+2014-12-08;02:58:00;VIA SCHIAVAZZI;4;;Incidente stradale senza feriti;Urto con veicolo in sosta;3;1;0;0;0;0;0
+2014-12-08;11:25:00;VIA FLAVIO GIOIA;sn;;Incidente stradale senza feriti;Frontale / laterale;2;1;1;0;0;0;0
+2014-12-08;13:38:00;LARGO CARLO FELICE;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-12-08;18:15:00;ROTATORIA STAMIRA/PERETTI;sn;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-12-09;12:19:00;VIA S.MARGHERITA;sn;;Incidente stradale senza feriti;Tamponamento;2;1;1;0;0;0;0
+2014-12-09;17:45:00;VIA POLA;1;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-12-09;22:44:00;VIA DEL TIMO;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-12-10;09:38:00;VIA PESSINA;sn;VIA CARRARA;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-12-10;11:00:00;STRADA MARCONI BIS (ARGINALE);sn;;Danneggiamento;Caduta dal veicolo x Gasolio sul manto stradale;1;1;0;0;0;0;0
+2014-12-10;12:03:00;VIALE ELMAS;sn;VIA DEL COMMERCIO;Incidente stradale con feriti;Tamponamento;2;2;0;0;1;0;0
+2014-12-10;11:43:00;VIA S.MARIA GORETTI;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-12-10;12:33:00;VIA LEGNANO;sn;VIA S.MARIA CHIARA;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-12-10;16:32:00;CORSO VITTORIO EMANUELE II;271;;Incidente stradale senza feriti;;4;1;0;0;0;0;0
+2014-12-11;09:51:00;VIA LOGUDORO;sn;PIAZZA S.COSIMO;Incidente stradale senza feriti;Svolta a sinistra irregolare;2;1;1;0;0;0;0
+2014-12-11;11:19:00;VIA DELEDDA;sn;VIA DANTE;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-12-11;12:30:00;VIALE TRENTO;88;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-12-11;12:27:00;VIALE GUGLIELMO MARCONI;sn;;Incidente stradale senza feriti;Urto laterale;3;0;3;0;0;0;0
+2014-12-11;15:40:00;VIALE POETTO;34;;Incidente stradale con feriti;Uscita x sbandamento;1;0;1;1;0;0;0
+2014-12-11;16:40:00;VIA BATTISTI;sn;;Danneggiamento;Ramo su auto;1;0;0;0;0;0;0
+2014-12-11;17:52:00;VIA TODDE;sn;VIA RENI;Danneggiamento;Danneggiamento auto in sosta;1;0;0;0;0;0;0
+2014-12-11;17:15:00;0 S.S. 195 RAC ( EX CASIC);sn;;Incidente stradale con feriti;Uscita x sbandamento;1;1;0;1;0;0;0
+2014-12-11;19:32:00;VIALE MONASTIR;185;;Incidente stradale con feriti;Urto laterale;5;4;2;0;0;1;0
+2014-12-12;15:24:00;VIA TORRICELLI;sn;;Incidente stradale con feriti;Tamponamento;3;1;2;2;0;0;0
+2014-12-12;18:58:00;VIA SCANO;sn;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-12-12;22:22:00;VIA CADELLO;sn;VIA MONS. PIOVELLA;Incidente stradale senza feriti;Apertura portiera;2;2;0;0;0;0;0
+2014-12-13;05:38:00;VIALE S.AVENDRACE;32;;Incidente stradale con feriti;Urto con veicolo in sosta;1;1;0;1;0;0;0
+2014-12-13;16:34:00;VIA PISANO;sn;;Incidente stradale con feriti;Tamponamento;2;2;0;0;0;0;0
+2014-12-13;15:52:00;VIA S.GILLA;sn;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;1;0;0;0;0
+2014-12-13;18:12:00;VIA CIUSA;sn;VIA CARROZ;Incidente stradale con feriti;Frontale / laterale;2;2;1;2;0;0;0
+2014-12-13;20:18:00;VIA ORISTANO;1;;Incidente stradale senza feriti;Urto laterale;1;0;1;0;0;0;0
+2014-12-13;18:47:00;VIA BACAREDDA;0;;Incidente stradale con feriti;Investimento di pedone;1;2;0;1;0;0;0
+2014-12-13;21:25:00;VIA VERDI;9;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;0;0;0;0;0;0
+2014-12-15;10:35:00;VIA SINI;sn;VIA DORIA;Incidente stradale con feriti;Frontale / laterale;2;2;0;1;0;0;0
+2014-12-15;11:23:00;VIA DELLA PINETA;sn;VIA MESSINA;Incidente stradale con feriti;Investimento di pedone;1;1;1;0;1;0;0
+2014-12-15;10:44:00;VIA CRESPELLANI;5;;Incidente stradale senza feriti;Immissione nel flusso della circolazione;2;1;1;0;0;0;0
+2014-12-15;14:04:00;VIA STAMIRA;8;;Incidente stradale senza feriti;Urto laterale;2;2;0;0;0;0;0
+2014-12-16;16:04:00;ROTATORIA CADELLO/IS MIRRIONIS;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-12-16;16:23:00;VIA LOMBARDIA;35;;Incidente stradale senza feriti;Apertura portiera;2;0;2;0;0;0;0
+2014-12-16;16:52:00;LARGO CARLO FELICE;44;;Incidente stradale con feriti;Investimento di pedone;1;0;2;0;1;0;0
+2014-12-17;07:11:00;VIALE POETTO;sn;;Danneggiamento;Uscita x sbandamento;1;0;1;0;0;0;0
+2014-12-17;12:00:00;VIALE DIAZ;sn;VIALE REG. MARGHERITA;Incidente stradale senza feriti;Tamponamento;2;2;0;0;0;0;0
+2014-12-17;12:55:00;VIA DEI VISCONTI;sn;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;1;0;0;0;0;0
+2014-12-17;22:01:00;VIA PAOLI;42;;Incidente stradale con feriti;Urto laterale;2;1;1;1;0;0;0
+2014-12-18;09:49:00;VIA IS MIRRIONIS;sn;VIA CIOCIARIA;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;0;0;0;0
+2014-12-18;11:10:00;VIA SALARIS;sn;VIA S.ALENIXEDDA;Incidente stradale senza feriti;Frontale / laterale;2;0;2;0;0;0;0
+2014-12-19;02:14:00;PIAZZA YENNE;5;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-12-19;09:48:00;LARGO CARLO FELICE;40;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;1;0;1;0;0;0
+2014-12-19;11:25:00;VIA ROMA;sn;LARGO CARLO FELICE;Incidente stradale con feriti;Urto laterale;2;2;0;1;0;0;0
+2014-12-19;19:38:00;S.S. 195 RAC ( EX CASIC);sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-12-19;21:27:00;LARGO CARLO FELICE;52;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;0;1;0;0;0;0
+2014-12-20;10:49:00;VIA CIMAROSA;89;;Incidente stradale con feriti;;1;0;2;1;0;0;0
+2014-12-20;12:02:00;VIA IS MIRRIONIS;sn;PIAZZA S.MICHELE;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-12-20;12:42:00;VIA DELLA PINETA;207;;Danneggiamento;Cornicione su auto;2;0;0;0;0;0;0
+2014-12-20;14:32:00;VIA SCANO;sn;LARGO GENNARI;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-12-20;15:20:00;VIA BACAREDDA;21;;Incidente stradale con feriti;Investimento di pedone;1;1;1;1;0;0;0
+2014-12-20;16:02:00;VIA DANTE;sn;VIA PAIS;Incidente stradale con feriti;;2;1;4;4;0;0;0
+2014-12-21;02:45:00;VIA MADDALENA;sn;PIAZZA DEL CARMINE;Incidente stradale senza feriti;Uscita x sbandamento;1;1;0;0;0;0;0
+2014-12-21;13:47:00;VIALE REG. ELENA;FR. 5;;Incidente stradale con feriti;Apertura portiera;2;2;0;0;1;0;0
+2014-12-22;14:24:00;VIA ROMA;50;;Incidente stradale con feriti;Tamponamento;2;3;0;1;0;0;0
+2014-12-22;19:53:00;VIA DEI GENOVESI;102;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-12-22;23:22:00;VIA S.BENEDETTO;< x >;VIA PETRARCA;Incidente stradale con feriti;Frontale / laterale;2;2;1;2;0;0;0
+2014-12-23;12:35:00;PIAZZA DEFFENU;sn;VIALE COLOMBO;Incidente stradale con feriti;Tamponamento;2;1;1;1;0;0;0
+2014-12-23;12:18:00;VIA TRINCEA D. RAZZI;69;;Incidente stradale per caduta di pedone;Caduta di pedone x mattonelle divelte;0;0;1;0;1;0;0
+2014-12-23;18:53:00;0 S.S. 195 RAC ( EX CASIC);sn;;Incidente stradale con feriti;Uscita x sbandamento;1;1;0;1;0;0;0
+2014-12-24;09:24:00;ASSE MEDIANO DI SCORRIMENTO;sn;;Incidente stradale senza feriti;Tamponamento;2;0;2;0;0;0;0
+2014-12-24;14:13:00;VIALE MERELLO;62;;Incidente stradale senza feriti;Urto con veicolo in sosta;2;1;0;0;0;0;0
+2014-12-25;12:46:00;ROTATORIA STAMIRA/PERETTI;;;Incidente stradale con feriti;Urto anteriore;2;2;0;1;0;0;0
+2014-12-26;16:58:00;VIA S.AGOSTINO;sn;VIA ROMA (LUNGOMARE);Incidente stradale con feriti;Tamponamento;2;1;2;2;0;0;0
+2014-12-26;18:43:00;VIA S.AGOSTINO;sn;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-12-26;20:49:00;VIA PERGOLESI;41;;Incidente stradale con feriti;Frontale / laterale;2;2;0;0;1;0;0
+2014-12-27;12:08:00;LARGO CARLO FELICE;sn;VIA DETTORI;Incidente stradale senza feriti;Urto laterale;3;2;0;0;0;0;0
+2014-12-27;15:17:00;VIALE COLOMBO;sn;;Incidente stradale senza feriti;Frontale / laterale;2;2;0;0;0;0;0
+2014-12-27;18:40:00;ASSE MEDIANO DI SCORRIMENTO;< x >;VIA BERLINO;Incidente stradale con feriti;Uscita x sbandamento;1;1;1;2;0;0;0
+2014-12-27;20:31:00;VIA PORCELL;4;;Incidente stradale senza feriti;Urto con veicolo in sosta;3;1;0;0;0;0;0
+2014-12-28;17:17:00;VIA CIUSA;sn;ASSE MEDIANO DI SCORRIMENTO;Incidente stradale con feriti;Tamponamento;2;2;0;1;0;0;0
+2014-12-28;19:31:00;VIA TIEPOLO;SN;VIA PAOLO DA DORIA;Incidente stradale con feriti;Frontale / laterale;3;2;0;0;0;0;0
+2014-12-29;11:04:00;VIA CAMMINO NUOVO;9;;Danneggiamento;Danneggiamenti x Buca sulla sede stradale;1;1;0;0;0;0;0
+2014-12-29;18:58:00;ASSE MEDIANO DI SCORRIMENTO;KM.5,6;;Incidente stradale con feriti;Tamponamento;3;2;2;2;0;0;0
+2014-12-30;08:44:00;VIALE S.BARTOLOMEO;sn;;Incidente stradale senza feriti;Urto laterale;2;1;1;0;0;0;0
+2014-12-30;15:04:00;VIA MEDAGLIE D`ORO;5;;Incidente stradale senza feriti;Urto con veicolo in sosta;3;1;0;0;0;0;0
+2014-12-30;17:51:00;VIA DELLA PINETA;sn;VIA MESSINA;Incidente stradale senza feriti;Manovra di retromarcia;2;1;1;0;0;0;0
+2014-12-30;20:04:00;VIA PO;4;;Incidente stradale con feriti;Frontale / laterale;2;1;1;0;1;0;0
+2014-12-31;19:36:00;ROTATORIA CADELLO/SANTA MARIA CHIARA;sn;;Incidente stradale con feriti;Precedenza;2;2;0;1;0;0;0
